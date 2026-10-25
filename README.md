@@ -28,6 +28,18 @@
 | 15 | [docs/15-banking-and-payment-systems.md](docs/15-banking-and-payment-systems.md) | Banka sistemi, para yaratımı, ödeme/takas sistemleri / Banking, money creation, payment systems |
 | 16 | [docs/16-video-library.md](docs/16-video-library.md) | YouTube video kütüphanesi / YouTube video library |
 
+## Derin İncelemeler / Deep Dives
+
+Yukarıdaki dosyalar genel çerçevedir; ayrıntı için (sayısal örnekler, adım adım işleyiş, vaka kartları, grafikler):
+
+| Dosya | İçerik |
+|---|---|
+| [D1 Para, banka, ödeme sistemleri](docs/deep/D1-money-banking-payments.md) | Bilanço örneği, Basel III, SVB vakası, SWIFT/nostro-vostro, kart modeli, takas-uzlaşma |
+| [D2 Piyasalar ve piyasa suistimali](docs/deep/D2-markets-and-market-abuse.md) | Emir defteri, kaldıraç matematiği, türevler, insider trading unsurları, manipülasyon kataloğu, gözetim |
+| [D3 Faiz, kredi, çek, senet](docs/deep/D3-interest-credit-cheque-note.md) | Faiz formülleri, amortisman tabloları, tefecilik, çek/senet unsurları ve takip yolları |
+| [D4 Krizler, siyaset, jeopolitik](docs/deep/D4-crises-politics-geopolitics.md) | 1929'dan 2023'e ayrıntılı kriz vakaları, hiperenflasyon, rezerv para, tarifeler, IMF |
+| [D5 Gizli yapılar, şirketler, gölge ekonomi](docs/deep/D5-hidden-power-corporations-shadow-economy.md) | İddia değerlendirme çerçevesi, mason/cemaat yapıları, fon sahipliği, FATF, kara para savunması |
+
 ## Katkı / Contributing
 
 **TR:** Yasalar değişir. Hatalı veya eski bilgi görürseniz resmi kaynak bağlantısıyla birlikte issue/PR açın. Yasa dışı eylem talimatı içeren katkılar kabul edilmez.
