@@ -70,3 +70,28 @@ Durum: ✅ doğrulandı · 🛠 düzeltildi · ⚠️ ikincil kaynakla teyit (re
 
 ## English summary
 Claims were checked via web search; the official mevzuat.gov.tr PDFs were unreadable, so Turkish statute details come from SPK announcements, academic papers, law-firm notes and news. Errors fixed: usury needs profit motive, not a rate cap; cheque limitation is 3 years (TTK 814), not about 6 months; promissory-note essentials are five (not seven) with statutory presumptions; BDDK was founded in 1999 and started in September 2000; Fed dividend is capped at 6%; UNODC's own 2011 estimate was 2.7% of GDP. Items marked ❓ were not independently verified in this pass.
+
+## Güncelleme 2: D7–D13 dosyaları
+Bu turda mevzuat.gov.tr'ye ağ bağlantısı kesildi (DNS çözülemedi); Vergi Usul Kanunu, İİK, KVK, KDV, Gümrük Kanunu ve 6563 resmî metinleri **okunamadı**. Bu yüzden aşağıdaki durumlar geçerlidir.
+
+| İddia | Durum | Kaynak/Not |
+|---|---|---|
+| Kurumlar vergisi %25 (2025'ten), banka vb. %30 | ⚠️ | PwC oran tablosu (ikincil) |
+| KDV %20 / %10 / %1; ihracat %0 | ⚠️ | İkincil kaynaklar |
+| Gelir vergisi tarifesi dilimleri | ❓ | Verilmedi; yıllık değişir |
+| VUK 359 ceza aralıkları | ❓ | Kaynaklar çelişkili (3–8 yıl, 1–3 yıl, 18 ay–5 yıl); dosyada rakam verilmedi |
+| TTK md. 18, 19, 124, 125, 332, 376, 553, 580 | ✅ | **Resmî metin** (6102 PDF) |
+| Anonim 250.000 TL / kayıtlı sermayeli 500.000 TL, limited 50.000 TL (Cumhurbaşkanı kararı) | ✅⚠️ | 580 dipnotu ve ikincil kaynaklar; anonim tutarı karar metninden ayrıca doğrulayın |
+| Asgari sermaye uyum süresi 31/12/2027'ye uzatıldı | ⚠️ | Tek ikincil kaynak; Resmî Gazete'den doğrulayın |
+| TCK md. 161 hileli iflas 3–8 yıl; md. 162 taksirli iflas 2 ay–1 yıl | ✅ | **Resmî metin** |
+| TCK md. 245 kart kötüye kullanımı, 247 zimmet, 204 resmî belgede sahtecilik | ✅ | **Resmî metin** (D13/D6'da atıf) |
+| İflas erteleme kaldırıldı (7101, 2018) | ✅ | TTK 377 dipnotu ve hukuk kaynakları |
+| Konkordato mühlet süreleri | ⚠️ | Kaynaklar farklı (23-29 ay toplam) |
+| İİK itiraz süreleri (7 gün, 5 gün) | ⚠️ | İkincil kaynaklar |
+| 7518 sayılı Kanun RG 2 Temmuz 2024; 109/A | ✅ | SPKn resmî metni + SPK duyurusu |
+| Incoterms 2020: 11 kural, DPU DAT'ın yerine | ✅ | ICC kaynaklarının aktarımı |
+| UCP 600, URDG 758 | ❓ | Aramada kontrol edilmedi |
+| 24 Ocak 1980, Ağustos 1989, 5 Nisan 1994 (enflasyon ≈ %125), Şubat 2001 | ✅ | Ekonomi tarihi kaynakları |
+| 1 Ocak 2005 YTL, 1958 istikrar, 1930 TCMB, KKM Aralık 2021 | ❓ | Genel tarih bilgisi |
+| AMM ve geçici kayıp örnekleri | ✅ | Kendi hesabım (formüllerden) |
+| Tapu harcı, kira artış sınırı (TBK 344), 2022-24 %25 sınırı | ❓ | Genel bilgi; metin kontrol edin |

@@ -40,6 +40,13 @@ Yukarıdaki dosyalar genel çerçevedir; ayrıntı için (sayısal örnekler, ad
 | [D3 Faiz, kredi, çek, senet](docs/deep/D3-interest-credit-cheque-note.md) | Faiz formülleri, amortisman tabloları, tefecilik, çek/senet unsurları ve takip yolları |
 | [D4 Krizler, siyaset, jeopolitik](docs/deep/D4-crises-politics-geopolitics.md) | 1929'dan 2023'e ayrıntılı kriz vakaları, hiperenflasyon, rezerv para, tarifeler, IMF |
 | [D5 Gizli yapılar, şirketler, gölge ekonomi](docs/deep/D5-hidden-power-corporations-shadow-economy.md) | İddia değerlendirme çerçevesi, mason/cemaat yapıları, fon sahipliği, FATF, kara para savunması |
+| [D7 Vergi sistemi, planlama ve vergi suçları](docs/deep/D7-tax-system.md) | KDV zinciri örneği, VUK çerçevesi, planlama-kaçakçılık çizgisi, sahte fatura ekosistemi ve tespiti |
+| [D8 Kripto ve DeFi](docs/deep/D8-crypto-and-defi.md) | Blokzincir, stablecoin, AMM ve geçici kayıp hesapları, saklama, 7518 sayılı Kanun, dolandırıcılık tipolojileri |
+| [D9 Türkiye ekonomi tarihi](docs/deep/D9-turkey-economic-history.md) | 1923'ten bugüne dönemler, kriz deseni, yapısal temalar |
+| [D10 Şirketler, icra, iflas, konkordato](docs/deep/D10-companies-bankruptcy-enforcement.md) | TTK maddelerinden şirket türleri ve sermaye, borca batıklık, icra akışı, hileli iflas |
+| [D11 Döviz, altın, enflasyon, faiz](docs/deep/D11-fx-gold-inflation.md) | Enflasyon ölçüsü ve nedenleri, kur rejimleri, carry trade ve altın hesapları |
+| [D12 Dış ticaret ve gümrük](docs/deep/D12-foreign-trade-customs.md) | Incoterms 2020, akreditif, ithalat maliyeti hesabı, gümrük rejimleri, ticaret suçları |
+| [D13 Gayrimenkul, konut kredisi, kira](docs/deep/D13-real-estate-and-mortgage.md) | Tapu incelemesi, kredi matematiği, kira, kat karşılığı, dolandırıcılıklar |
 | [D6 Yasa dışı uygulamalar vaka kitabı](docs/deep/D6-illegal-practices-casebook.md) | Ponzi anatomisi, manipülasyon, banka dolandırıcılıkları, aklama tipolojileri, muhasebe hileleri ve Benford, rüşvet-kartel, gümrük, resmî metinden ceza tablosu, soruşturma akışı, mağdur ve ihbarcı rehberi |
 
 ## Katkı / Contributing
