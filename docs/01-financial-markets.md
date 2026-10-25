@@ -10,7 +10,7 @@
 - **Hisse senedi (Borsa İstanbul):** Aracı kurum hesabı, MKK/Takasbank altyapısı. Emir türleri: piyasa, limit, stop, gün sonu/iptale kadar geçerli.
 - **Tahvil/bono, fon (TEFAS), VİOP (vadeli işlem), varant.**
 - **Forex:** Türkiye'de yurt içi yetkili aracı kurumlar üzerinden yapılmalıdır. SPK lisansı olmayan yurt dışı siteler izinsiz faaliyet sayılabilir.
-- **Kripto varlıklar:** Kripto varlık hizmet sağlayıcıları 2024'te çıkan düzenlemeyle SPK yetkilendirmesi ve denetimine alındı. Platformun SPK izni olup olmadığını kontrol edin.
+- **Kripto varlıklar:** Kripto varlık hizmet sağlayıcıları, 2 Temmuz 2024 tarihli Resmî Gazete'de yayımlanan 7518 sayılı Kanun'la SPK yetkilendirmesi ve denetimine alındı (sonraki yıllarda ikincil düzenlemeler çıktı). Platformun SPK izni olup olmadığını kontrol edin.
 
 **Yasal çerçeve (özet)**
 - 6362 sayılı Sermaye Piyasası Kanunu (SPK denetimi)
@@ -28,13 +28,13 @@
 
 | Uygulama | Ne demek | Neden suç | İşaretler |
 |---|---|---|---|
-| **İçeriden öğrenenlerin ticareti (insider trading)** | Kamuya açıklanmamış fiyatı etkileyecek bilgiyle alım-satım veya bu bilgiyi başkasına verme | SPKn md. 106 | Haber öncesi olağandışı hacim |
-| **Piyasa dolandırıcılığı / manipülasyon** | Yapay fiyat/hacim oluşturma: gerçek dışı bilgi yayma, danışıklı işlemler | SPKn md. 107 | Ani fiyat sıçrayıp çöken küçük hisseler |
+| **İçeriden öğrenenlerin ticareti (insider trading)** | Kamuya açıklanmamış fiyatı etkileyecek bilgiyle alım-satım veya bu bilgiyi başkasına verme | SPKn md. 106 (hapis veya adli para cezası) | Haber öncesi olağandışı hacim |
+| **Piyasa dolandırıcılığı / manipülasyon** | Yapay fiyat/hacim oluşturma: gerçek dışı bilgi yayma, danışıklı işlemler | SPKn md. 107 (2–5 yıl hapis ve 5.000 güne kadar adli para cezası) | Ani fiyat sıçrayıp çöken küçük hisseler |
 | **Pump & dump** | Düşük likit varlığı alıp sosyal medyada şişirerek yüksek fiyattan satma | Manipülasyon (md. 107) | Telegram/X "bu coin 100x" grupları |
 | **Wash trading / danışıklı işlem** | Aynı kişinin kendi kendine alıp satması, sahte hacim | Manipülasyon | Hacim yüksek, derinlik yok |
 | **Spoofing / layering** | Gerçekleştirmeyi planlamadan emir yazıp iptal ederek fiyatı yönlendirme | Manipülasyon | Emir defterinde hızlı kaybolan büyük emirler |
 | **Front-running** | Müşteri emrini bilerek önden kendi lehine işlem | Güveni kötüye kullanma, SPK ihlali | Aracı kurum çalışanı kaynaklı |
-| **İzinsiz sermaye piyasası faaliyeti** | Lisanssız yatırım danışmanlığı, portföy yönetimi, forex/kripto platformu işletme | SPKn md. 109 | Lisans no yok, WhatsApp "sinyal" grupları |
+| **İzinsiz sermaye piyasası faaliyeti** | Lisanssız yatırım danışmanlığı, portföy yönetimi, forex/kripto platformu işletme | SPKn md. 109 (2–5 yıl hapis ve 5.000–10.000 gün adli para cezası) | Lisans no yok, WhatsApp "sinyal" grupları |
 | **Ponzi / piramit** | Eski yatırımcıya yeni yatırımcının parasıyla ödeme | Dolandırıcılık (TCK), SPKn | "Garanti %X aylık getiri" |
 | **Kara para aklama** | Suç gelirini ticaret yoluyla yasal göstermek | 5549, TCK md. 282 | Parçalı işlemler, kaynak belirsiz fon |
 | **Vergi kaçırma** | Kazancı bildirmemek | VUK, vergi kabahat/suçları | Kayıt dışı hesaplar |

@@ -38,7 +38,7 @@ flowchart TD
 | **Enron (2001)** | Muhasebe hilesi, denetçi bağımsızlığı |
 | **Volkswagen "Dieselgate" (2015)** | Emisyon testlerini aldatan yazılım; büyük cezalar |
 | **Boeing 737 MAX (2018–2019)** | Güvenlik kültürü ve düzenleyiciyle ilişki |
-| **Apple–İrlanda vergi davası** | Devlet yardımı olarak kabul edilen vergi düzenlemeleri; AB mahkemeleri uzun süre tartıştı |
+| **Apple–İrlanda vergi davası** | AB Komisyonu 2016'da İrlanda'nın Apple'a verdiği vergi kararlarını yasa dışı devlet yardımı saydı; Genel Mahkeme 2020'de bu kararı iptal etti, AB Adalet Divanı 10 Eylül 2024'te iptali bozup Komisyon kararını geri getirdi. İrlanda'nın yaklaşık 13,1 milyar avro (artı faiz) tahsil etmesi gerekti |
 | **AB/ABD tekel soruşturmaları (Microsoft, Google vb.)** | Dijital pazarların düzenlenmesi |
 
 *(Ayrıntılar için mahkeme ve regülatör açıklamalarına bakın.)*

@@ -27,6 +27,7 @@
 | 14 | [docs/14-global-corporations-and-power.md](docs/14-global-corporations-and-power.md) | Global şirketler, fonlar, lobicilik / Corporations, funds, lobbying |
 | 15 | [docs/15-banking-and-payment-systems.md](docs/15-banking-and-payment-systems.md) | Banka sistemi, para yaratımı, ödeme/takas sistemleri / Banking, money creation, payment systems |
 | 16 | [docs/16-video-library.md](docs/16-video-library.md) | YouTube video kütüphanesi / YouTube video library |
+| 17 | [docs/17-fact-check-log.md](docs/17-fact-check-log.md) | Doğrulama kaydı: neyin nasıl kontrol edildiği / Fact-check log |
 
 ## Derin İncelemeler / Deep Dives
 

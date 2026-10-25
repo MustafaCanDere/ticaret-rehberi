@@ -10,7 +10,7 @@
 - **Tartışmalı yönler (belgelenmiş):** Üyelerin birbirini kayırması riski. İngiltere'de 1990'larda parlamento komitesi yargı ve polis mensuplarının üyeliğini beyan etmesi konusunu tartıştı. Gizlilik ve ritüeller kuşku doğurur.
 - **Kanıtlanmamış iddia:** "Masonlar dünya parasını/bankalarını yönetir." Bunu destekleyen güvenilir, bağımsız kanıt yoktur.
 
-**P2 (Propaganda Due) vakası, İtalya (belgelenmiş):** 1970'lerde Licio Gelli yönetiminde, resmî masonik yapıdan ayrı ve gizli faaliyet gösteren bir loca; politikacı, subay, iş insanı ve gazeteci üyeler içerdi. 1981'de listeler ortaya çıktı, skandal hükümeti düşürdü. Banco Ambrosiano'nun 1982 çöküşü ve başkanı Roberto Calvi'nin ölümü bu dönemle ilişkilendirildi. **Ders:** Gizli yapılar bankacılık ve siyasetle birleştiğinde yolsuzluk ve kayırma riski artar. Bu, "tüm masonlar suçludur" demek değildir; P2, resmî loca tarafından da kapatılmış bir sapmadır.
+**P2 (Propaganda Due) vakası, İtalya (belgelenmiş):** 1970'lerde Licio Gelli yönetiminde, resmî masonik yapıdan ayrı ve gizli faaliyet gösteren bir loca; politikacı, subay, iş insanı ve gazeteci üyeler içerdi. Mart 1981'de Gelli'nin villasındaki aramada yaklaşık 964 kişilik bir üye listesi bulundu; locanın resmî mason tüzüğü 1976'da geri alınmıştı ve İtalya'nın gizli dernekleri yasaklayan anayasa hükmüne aykırı çalışıyordu. Banco Ambrosiano'nun 1982 çöküşü ve başkanı Roberto Calvi'nin Haziran 1982'de Londra'da Blackfriars Köprüsü altında ölü bulunması bu dönemle ilişkilendirildi; Gelli sonradan bankanın hileli iflasıyla bağlantılı olarak 12 yıl hapse mahkûm edildi. **Ders:** Gizli yapılar bankacılık ve siyasetle birleştiğinde yolsuzluk ve kayırma riski artar. Bu, "tüm masonlar suçludur" demek değildir; P2, resmî loca tarafından da kapatılmış bir sapmadır.
 
 ### 13.2 Tarikat ve cemaatler (Türkiye ve dünya)
 - **Tarikat:** Tasavvufi eğitim çizgisi. Türkiye'de 1925'te tekke ve zaviyeler kapatıldı. **Cemaat:** Dini/sosyal topluluk. Bunlar kendi başına suç değildir; inanç özgürlüğü kapsamındadır.
@@ -20,7 +20,7 @@
   - **Zorla bağış, emeğin karşılıksız kullanımı, mal varlığının devri baskısı:** Baskıcı gruplarda (cult) görülen istismar biçimleri; suç olabilir.
   - **Vergisiz/denetimsiz para akışı, kara para aklama için hayır kurumlarının kullanımı:** Denetim ve şeffaflık gerekir.
   - **Siyasetle iç içe geçme:** Kamu kaynağı, ihale ve atamalarda kayırmacılık.
-- **Türkiye'den örnek (hukuk süreçleriyle ilgili):** Mahkeme ve devlet kararlarında FETÖ olarak adlandırılan yapıya bağlı olduğu belirlenen şirket ve bankalara kayyum atandı veya el konuldu. Örneğin Bank Asya 2015'te TMSF yönetimine alındı. Bu süreçlerin ayrıntıları ve değerlendirmeleri tartışmalıdır; resmî karar metinlerine bakın.
+- **Türkiye'den örnek (hukuk süreçleriyle ilgili):** Mahkeme ve devlet kararlarında FETÖ olarak adlandırılan yapıya bağlı olduğu belirlenen şirket ve bankalara kayyum atandı veya el konuldu. Örneğin Bank Asya için BDDK Şubat 2015'te yönetim kurulunu belirleyen imtiyazlı payların haklarını TMSF'ye verdi, 29 Mayıs 2015'te bankanın tamamını TMSF'ye devretti; Anayasa Mahkemesi kararında anıldığı üzere faaliyet izni sonradan kaldırıldı. Bu süreçlerin ayrıntıları ve değerlendirmeleri tartışmalıdır; resmî karar metinlerine bakın.
 
 ### 13.3 Uyarı işaretleri (grup/cemaat/iş ağı)
 - Para vermezseniz dışlanma korkusu, borçlandırılma, "kutsal görev" adıyla bağış baskısı

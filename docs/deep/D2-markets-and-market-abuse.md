@@ -68,9 +68,9 @@ Yukarıdaki grafik: %50 kayıp, başa dönmek için **%100** kazanç gerektirir.
 4. Bu bilgiyle işlem yapma veya başkasına verme ("ipucu", tipping).
 - **ABD:** Rule 10b-5 ve ihlal doktrinleri (klasik teori: şirket içi; zimmete geçirme teorisi: bilgiyi güven ilişkisini ihlal ederek kullanma).
 - **AB:** Piyasa Suistimali Tüzüğü (MAR) madde 7-14, dolaylı ihlalciler de dahil.
-- **Türkiye:** 6362 sayılı Kanun md. 106.
+- **Türkiye:** 6362 sayılı SPKn md. 106 (içeriden öğrenenlerin ticareti; hapis veya adli para cezası). Piyasa dolandırıcılığı md. 107: 2–5 yıl hapis ve 5.000 güne kadar adli para cezası (işlem bazlı ve bilgi bazlı iki ayrı fıkra). İzinsiz sermaye piyasası faaliyeti md. 109: 2–5 yıl hapis ve 5.000–10.000 gün adli para cezası. SPK, soruşturma sürerken geçici işlem yasağı gibi idari tedbirler de uygulayabilir.
 - **Tespit:** Haber öncesi olağandışı alım/satım, ilişkili hesaplar, telefon-mesaj kayıtları, ödeme izleri.
-**Belgelenmiş örnekler:** Ivan Boesky (1980'ler, ABD), Raj Rajaratnam/Galleon Group (2011 mahkûmiyet), SAC Capital (2013'te yaklaşık 1,8 milyar dolar uzlaşma; şirket olarak suçu kabul etti). Martha Stewart davası içeriden öğrenenlerin ticaretinden değil, soruşturmada yalan beyan/engelleme suçlarından mahkûm oldu.
+**Belgelenmiş örnekler:** Ivan Boesky (1980'ler, ABD), Raj Rajaratnam/Galleon Group (2011 mahkûmiyet), SAC Capital (2013'te şirket olarak suçunu kabul etti; haberlerde toplam ödeme yaklaşık 1,8 milyar dolar olarak geçer, bazı haberlerde yalnızca 1,2 milyar dolarlık kısım anılır; Steven Cohen hakkında cezai dava açılmadı). Martha Stewart davası içeriden öğrenenlerin ticaretinden değil, soruşturmada yalan beyan/engelleme suçlarından mahkûm oldu.
 **Meşru olanlar:** Önceden planlanmış işlem planları (ör. ABD'de Rule 10b5-1), kamuya açık analiz ve "mozaik" araştırma (kamuya açık parçalardan sonuç çıkarma).
 
 ### 5.2 Fiyat manipülasyonu

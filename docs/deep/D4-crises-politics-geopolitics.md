@@ -39,8 +39,8 @@ Tayland baht'ı 2 Temmuz 1997'de dalgalanmaya bırakıldı; kriz Endonezya, Gün
 
 ### 2.7 2001 Türkiye krizi
 - Arka plan: Sabit kur çapalı program (2000), cari açık, kamu bankalarının görev zararları, zayıf bankacılık.
-- Şubat 2001: Siyasi gerginlik (Başbakan–Cumhurbaşkanı), gecelik faizler çok yüksek seviyelere fırladı, 22 Şubat'ta kur dalgalanmaya bırakıldı; lira kısa sürede çok değer kaybetti.
-- Sonrası: Güçlendirilmiş Ekonomik Program (Kemal Derviş), BDDK kuruldu (2000 yasası, 2001'de fiilen kurumsallaştı), TMSF'nin rolü, bankacılık yeniden yapılandırması, bağımsız merkez bankası yasası (2001), enflasyon hedeflemesi.
+- Şubat 2001: 19 Şubat'taki Millî Güvenlik Kurulu toplantısında Cumhurbaşkanı Sezer ile Başbakan Ecevit arasındaki gerginlik ("Kara Çarşamba") piyasaları sarstı; 21 Şubat'ta gecelik faizler olağanüstü yükseldi (kaynaklar farklı rakamlar verir: yaklaşık %760'tan %7.500'e kadar anılır), 22 Şubat'ta kur dalgalanmaya bırakıldı ve lira kısa sürede çok değer kaybetti.
+- Sonrası: Güçlendirilmiş Ekonomik Program (Kemal Derviş), BDDK (4389 sayılı Kanunla Haziran 1999'da kuruldu, Eylül 2000'de faaliyete başladı; kriz sonrası rolü büyüdü), TMSF'nin rolü, bankacılık yeniden yapılandırması, Merkez Bankası Kanunu'nda 4651 sayılı değişiklik (25 Nisan 2001'de kabul, Mayıs 2001'de yürürlük; fiyat istikrarının asıl hedef olması ve Hazine'ye avans verilmesinin yasaklanması), sonrasında enflasyon hedeflemesine geçiş.
 
 ### 2.8 2007–09 Küresel Finansal Kriz (ayrıntı)
 ```mermaid
@@ -62,13 +62,13 @@ flowchart LR
 Yunanistan'ın bütçe verilerinin yeniden düzeltilmesi, spreadlerin açılması, IMF-AB-AMB (troyka) programları, kemer sıkma. Mario Draghi'nin 2012'de "whatever it takes" açıklaması ve OMT programı krizin yatışmasında dönüm noktasıydı.
 
 ### 2.10 2018 Türkiye kur şoku
-Dış borç yoğunluğu, cari açık, enflasyon, merkez bankası güven tartışmaları ve Ağustos 2018'de ABD ile gerginlik (çelik tarifesi duyurusu) lira üzerinde sert baskı yarattı; lira yıl boyunca dolar karşısında yaklaşık %30-40 aralığında değer kaybetti. Sonrası: sıkı para politikası, kredi sıkılaşması, sermaye kontrolü benzeri adımlar tartışıldı.
+Dış borç yoğunluğu, cari açık, enflasyon, merkez bankası güven tartışmaları ve Ağustos 2018'de ABD ile gerginlik (çelik tarifesi duyurusu) lira üzerinde sert baskı yarattı; dolar karşısındaki kayıp ölçüye göre değişir: yıl başı–yıl sonu kıyasında yaklaşık %28 (kur yaklaşık 3,78'den 5,27'ye), yıl içindeki en sert noktalarda ise %40'ı aşan kayıplar görüldü. Sonrası: sıkı para politikası, kredi sıkılaşması, sermaye kontrolü benzeri adımlar tartışıldı.
 
 ### 2.11 2020 Covid-19
 Küresel ekonomik "bilinçli durdurma"; Mart 2020'de likidite krizi (hazine tahvilleri bile satıldı), merkez bankaları sınırsız likidite ve tahvil alımı, devletlerin devasa mali teşvikleri. Sonuç: Hızlı toparlanma ama arz zinciri sorunları ve sonraki enflasyon.
 
 ### 2.12 2021–23 Enflasyon dalgası
-Arz şokları, enerji ve gıda fiyatları (Rusya–Ukrayna savaşı), talep teşvikleri, ücret baskısı; merkez bankaları 2022'de agresif faiz artırdı. Tahvil fiyatları sert düştü; teknoloji hisselerinde düzeltme. Türkiye'de resmî yıllık enflasyon Ekim 2022'de yaklaşık %85'e çıktı (TÜİK).
+Arz şokları, enerji ve gıda fiyatları (Rusya–Ukrayna savaşı), talep teşvikleri, ücret baskısı; merkez bankaları 2022'de agresif faiz artırdı. Tahvil fiyatları sert düştü; teknoloji hisselerinde düzeltme. Türkiye'de TÜİK'in resmî yıllık TÜFE enflasyonu Ekim 2022'de %85,51'e çıktı (bağımsız ENAG aynı ay için çok daha yüksek bir oran hesapladı).
 
 ## 3. Hiperenflasyon mekaniği
 1. Bütçe açığı para basılarak finanse edilir.

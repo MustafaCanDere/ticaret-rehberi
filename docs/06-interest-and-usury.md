@@ -28,7 +28,7 @@ flowchart LR
 Banka mevduatı ve kredisi, tahvil-bono, repo, yasal sözleşme faizi (azami sınırlar içinde), ticari alacaklarda temerrüt faizi.
 
 ### 6.3 Yasa dışı: tefecilik ve haksız faiz
-- **Tefecilik (TCK md. 241):** Yetkisiz kişilerin, yasal sınırı aşan faizle ya da hileyle borç para vermesi.
+- **Tefecilik (TCK md. 241):** Kazanç sağlama amacıyla başkasına borç para vermek. Kazanç faiz adıyla ya da başka bir adla (komisyon, senet kırma, çek karşılığı kısmi ödeme vb.) elde edilse de suç oluşabilir; belirleyici unsur bir faiz oranı eşiği değil, kazanç amacıdır. Ceza 2–6 yıl hapis ve 500–5.000 gün adli para cezasıdır; suç örgüt faaliyeti kapsamında işlenirse ceza bir kat artırılır. (Hukuk kaynaklarındaki özetlere göredir; güncel metni mevzuat.gov.tr'den doğrulayın.)
 - **Gizli faiz:** Faizi "komisyon", "masraf", "hediye" ya da senet bedeline gizleme.
 - **Senet/çek rehinli borç:** Teminat olarak boş senet, boş çek, araç tapusu, kimlik alma.
 - **Şiddet, tehdit, taciz:** Tahsilat için bunlar ayrıca suçtur (tehdit, şantaj, özel hayatın gizliliği).

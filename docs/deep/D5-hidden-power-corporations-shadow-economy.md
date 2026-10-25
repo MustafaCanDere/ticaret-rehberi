@@ -56,7 +56,7 @@ Vakıf ve dernek bağışları, eğitim kurumları, yayıncılık, ticari işlet
 ### 3.4 Türkiye'de hukuk çerçevesi (özet)
 - 1925 tarihli kanun tekke ve zaviyeleri kapattı; tarikat faaliyetleri resmen tanınmaz.
 - Dernek ve vakıflar mevzuatı, yardım toplama kanunu, MASAK yükümlülükleri, terör finansmanının önlenmesi.
-- Terör örgütü saptanan yapılar için kayyum, TMSF, el koyma ve tasfiye süreçleri vardır (Bank Asya 2015'te TMSF yönetimine alınmış, faaliyet izni sonradan kaldırılmıştır). Bu süreçlerin hukuki değerlendirmesi, adalet ve mülkiyet haklarıyla ilgili uluslararası kurum görüşleri dahil, tartışmalı ve karar metinlerine bağlıdır.
+- Terör örgütü saptanan yapılar için kayyum, TMSF, el koyma ve tasfiye süreçleri vardır (Bank Asya örneğinde BDDK Şubat 2015'te yönetim kurulunu belirleyen imtiyazlı payların haklarını TMSF'ye verdi, 29 Mayıs 2015'te bankanın tamamını TMSF'ye devretti; Anayasa Mahkemesi kararında anıldığı üzere faaliyet izni sonradan kaldırıldı ve iflas istendi). Bu süreçlerin hukuki değerlendirmesi, adalet ve mülkiyet haklarıyla ilgili uluslararası kurum görüşleri dahil, tartışmalı ve karar metinlerine bağlıdır.
 
 ### 3.5 Kendini ve yakınlarını koruma
 1. Yazılı sözleşme ve makbuz olmadan para vermeyin.
@@ -110,8 +110,8 @@ Bu vakaların hiçbirinde "evrensel gizli komuta" yoktu; sıradan çıkar, ödü
 ## 5. Gölge ekonomi ve kara para: ayrıntı
 ### 5.1 FATF çerçevesi
 - FATF (Mali Eylem Görev Gücü, 1989) kara para aklama ve terör finansmanı için 40 tavsiye kararı yayımlar; ülke değerlendirmeleri yapar.
-- **Gri liste:** İzlenen, stratejik eksiklikleri olan ülkeler; **kara liste:** yüksek riskli yargı alanları. Gri liste, bankalar için ek uyum maliyeti ve yatırımcı algısı demektir. Türkiye 2021'de gri listeye alındı, 2024'te çıkarıldı.
-- Tahmini küresel aklama: BM Uyuşturucu ve Suç Ofisi (UNODC) yıllık küresel GSYH'nin yaklaşık %2–5'i aralığında tahmin eder (kesin ölçülemez).
+- **Gri liste:** İzlenen, stratejik eksiklikleri olan ülkeler; **kara liste:** yüksek riskli yargı alanları. Gri liste, bankalar için ek uyum maliyeti ve yatırımcı algısı demektir. Türkiye Ekim 2021'de gri listeye alındı, 28 Haziran 2024'te listeden çıkarıldı.
+- Tahmini küresel aklama: Sık anılan %2–5 aralığı IMF'ye dayanır ve yıllık küresel GSYH'nin payını anlatır. UNODC'nin 2011 raporu, 2009 için yaklaşık 1,6 trilyon dolar, yani küresel GSYH'nin yaklaşık %2,7'si bir tahmin verdi ve bunun IMF aralığıyla tutarlı olduğunu belirtti. Kesin ölçülemez.
 
 ### 5.2 Aklama aşamaları ve savunma kontrolleri
 | Aşama | Ne olur (kavramsal) | Savunma |

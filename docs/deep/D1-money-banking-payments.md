@@ -63,14 +63,14 @@ flowchart LR
 | Kaldıraç oranı | %3 |
 | Likidite karşılama oranı (LCR) | %100 |
 | Net istikrarlı fonlama oranı (NSFR) | %100 |
-Ülkeler daha sıkı uygulayabilir; sistemik önemli bankalara ek tampon gelir.
+Koruma tamponu dahil asgari: CET1 %7, Tier 1 %8,5, toplam sermaye %10,5. Düzenleyiciler ayrıca %0–2,5 aralığında karşı-döngüsel tampon isteyebilir; ülkeler daha sıkı uygulayabilir; sistemik önemli bankalara ek tampon gelir. (Likidite oranlarının %100 eşiği Basel Komitesi çerçevesinden alınmıştır.)
 
 ## 4. Banka kriz anatomisi: SVB örneği (Mart 2023)
 1. 2020–21'de mevduat hızla büyüdü; banka uzun vadeli tahvil aldı.
 2. 2022'de faizler hızla yükseldi → tahvil değerleri düştü (kayıp "vadeye kadar tutulan" olarak gizliydi).
 3. Mevduat çoğunlukla **sigortasız** ve sınırlı sayıda müşteri/teknoloji sektörü yoğunluğundaydı; sosyal medya ve mesajlaşma paniği hızlandırdı.
-4. Birkaç saatte on milyarlarca dolar çekildi; banka kapatıldı ve ABD mevduat sigorta kurumu (FDIC) el koydu.
-5. Düzenleyiciler sistemik risk istisnası ile tüm mevduatı güvence altına aldı.
+4. Mevduat kaçışı çok hızlandı; 10 Mart 2023'te Kaliforniya düzenleyicisi bankayı kapattı ve FDIC kayyum (receiver) olarak atandı.
+5. Kapanıştan iki gün sonra, Hazine Bakanı'nın onayıyla "sistemik risk istisnası" devreye girdi; sigortasız mevduat sahipleri de korundu ve olası kayıp bankalardan alınacak özel bir ek primle karşılanacak (FDIC belgeleri). Bankanın 2022 sonunda yaklaşık 209 milyar dolar varlığı ve yaklaşık 175 milyar dolar mevduatı vardı.
 **Ders:** Vade uyumsuzluğu + mevduat yoğunluğu + sigortasız para + hız (dijital bankacılık).
 
 ## 5. Merkez bankası araç kutusu
@@ -95,7 +95,7 @@ flowchart LR
 | Sistem | Tür | Not |
 |---|---|---|
 | **TCMB EFT** | Brüt tahsilat (RTGS) | Bankalar arası yüksek tutar, anlık brüt uzlaşma |
-| **FAST** | Anlık ödeme | 7/24, saniyeler içinde; 2021'de açıldı |
+| **FAST** | Anlık ödeme | 7/24, saniyeler içinde; 8 Ocak 2021'de kullanıma açıldı (pilot Aralık 2020) |
 | **Takasbank / MKK** | Menkul kıymet takas-saklama | Borsa İstanbul işlemlerinin arka ofisi |
 | **Fedwire** | ABD RTGS | Yüksek tutar |
 | **CHIPS** | ABD özel sektör netleştirme | Dolar uluslararası ödemelerinin büyük kısmı |
@@ -136,7 +136,7 @@ flowchart LR
     N --> A
     A -- net tutar - komisyon --> M
 ```
-- **Interchange:** Alan bankanın veren bankaya ödediği ücret; kart ağı ve yönetmeliklere göre sınırlanır (AB'de bireysel kartlarda %0,2 banka kartı, %0,3 kredi kartı tavanı).
+- **Interchange:** Alan bankanın veren bankaya ödediği ücret; kart ağı ve yönetmeliklere göre sınırlanır (AB'de 2015/751 sayılı Tüzük'le, 9 Aralık 2015'ten itibaren bireysel kartlarda banka kartı için %0,2, kredi kartı için %0,3 tavan; üye devletler daha düşük iç tavan koyabilir).
 - **Chargeback (itiraz):** Dolandırıcılık/teslim edilmeyen mal durumunda tutar işyerinden geri alınabilir.
 - **3-D Secure:** Çevrimiçi ödemede ek kimlik doğrulama.
 
@@ -155,7 +155,8 @@ ABD hisse senetlerinde standart uzlaşma Mayıs 2024'ten beri T+1; Türkiye'de p
 - Karşı hamleler: CIPS, ikili yerel para anlaşmaları, kripto/stablecoin, merkez bankası dijital paraları (CBDC), altın rezervi.
 
 ## 8. Fed sahipliği mitine detay
-- 12 bölgesel Fed bankası; üye bankalar sermaye payı tutar (devredilemez, hisse kontrol vermez, sabit %6 temettü ile sınırlı; yüksek varlıklı bankalar için farklı oran).
+- 12 bölgesel Fed bankası; üye bankalar bulundukları bölgenin Reserve Bank'ında yasa gereği sermaye payı tutar. Bu pay satılamaz, devredilemez, teminat gösterilemez ve sıradan hisse gibi kontrol veya kâr hakkı vermez; temettü yasayla en çok %6 ile sınırlıdır.
+- Üye bankalar her Reserve Bank yönetim kurulunun dokuz üyesinden altısını seçer. Yani özel katılım gerçektir, ama bu, kâr payı alan sahiplik anlamına gelmez. Fed'in resmî ifadesi: sistem "kimsenin sahipliğinde" değildir.
 - Yönetim: Board of Governors (7 üye; Başkan tarafından atanıp Senato onayı, 14 yıllık dönem). FOMC faiz kararını verir.
 - Net gelirin giderler ve temettüler sonrası kalanı Hazine'ye aktarılır. Karma kamu-özel yapıdır; "bir avuç özel sahip kâr ediyor" iddiası yapıya uymaz.
 

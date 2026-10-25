@@ -8,7 +8,8 @@
 - **Dayanak:** 5941 sayılı Çek Kanunu ve Türk Ticaret Kanunu.
 - **Ne işe yarar:** Keşidecinin bankadaki hesabından, hamile ya da lehtara ödeme yapılmasını emreden kıymetli evrak. Vadesiz bir ödeme aracıdır: ibraz edildiğinde ödenir.
 - **Vadeli çek:** Çek üzerinde ileri tarih yazılsa bile çek "görüldüğünde ödenir"dir. Pratikte vade gibi kullanılsa da hukuken ibraz günü önemlidir.
-- **İbraz süreleri (özet):** Düzenleme yeri ve ödeme yeri aynıysa 10 gün, farklıysa 1 ay. Sürede ibraz edilmezse bazı haklar zayıflar.
+- **İbraz süreleri (TTK m. 796):** Düzenleme yeri ve ödeme yeri aynıysa 10 gün, farklı bir yerde ödenecekse 1 ay. Yurt dışında düzenlenen çeklerde aynı kıtada 1 ay, farklı kıtada 3 ay. Süreler hak düşürücüdür, düzenleme günü sayılmaz; süre tatile denk gelirse ilk iş gününe uzar.
+- **Zamanaşımı (TTK m. 814):** Hamilin çirantalara ve düzenleyene karşı başvuru hakları ibraz süresinin bitiminden itibaren 3 yılda zamanaşımına uğrar (ikincil kaynaklara göre; güncel metni doğrulayın).
 - **Bankanın karşılık sorumluluğu:** Banka, hesapta yeterli karşılık olmasa bile kanunda belirlenen tutara kadar ödeme yapmakla yükümlü olabilir; tutarlar güncellenir.
 
 ```mermaid
@@ -21,11 +22,11 @@ flowchart TD
     E --> G[Keşideciye idari/cezai yaptırımlar ve çek yasağı]
 ```
 
-**Karşılıksız çek:** Sonuçları ağırdır: çek düzenleme yasağı, bankada kayıt, icra takibi, adli para cezası ve diğer yaptırımlar. Detaylar değişir, mevzuata bakın.
+**Karşılıksız çek (Çek Kanunu md. 5–6):** 2012 değişikliğinden sonra hapis cezası kaldırıldı; hamilin şikâyeti üzerine adli para cezası verilir (her çek için en çok 1.500 güne kadar). Şikâyet süresi öğrenmeden itibaren 3 ay, her hâlde 1 yıldır. Mahkeme çek düzenleme ve çek hesabı açma yasağı koyabilir; karşılıksız kalan bedel temerrüt faiziyle ödenirse yasak kaldırılabilir. Yasak kaydı 10 yıl sonra silinir. Ayrıca icra takibi ve bankada kayıt sonuçları doğar. (Ayrıntılar ve tutarlar değişir; güncel Çek Kanunu'nu kontrol edin.)
 
 ### 7.2 Senet (bono)
 - **Ne işe yarar:** Borçlunun belirli vadede belirli tutarı ödemeyi yazılı taahhüt ettiği kıymetli evrak.
-- **Zorunlu unsurlar:** "Senet" ibaresi/ödeme vaadi, tutar, vade, ödeme yeri, lehtar, düzenleme tarihi/yeri, borçlunun imzası. Eksik unsur senedin geçerliliğini etkileyebilir.
+- **Zorunlu unsurlar (TTK m. 776):** "Bono" veya "emre yazılı senet" ibaresi, kayıtsız şartsız belirli bir bedeli ödeme vaadi, lehtarın adı, düzenleme tarihi ve düzenleyenin imzası. Vade, ödeme yeri ve düzenleme yeri yazılmamışsa kanunda karineler vardır (ör. vade yoksa görüldüğünde ödenir sayılır); zorunlu unsurlardan biri eksikse belge bono sayılmaz, adi borç senedi olabilir.
 - **Tahsil:** Süresinde ödenmezse kambiyo senetlerine özgü icra takibi mümkündür; hızlı yoldur.
 - **Senet türleri (özet):** Bono (düzenleyen borçlu), poliçe (üçüncü kişiye ödeme emri).
 
