@@ -156,7 +156,7 @@ Görüldüğünde ödenir · görüldükten belirli süre sonra · düzenleme ta
 - **Ciro:** Senedin devri; ciranta da sorumlu olur (ciro silsilesi kesintisiz olmalı).
 
 ### D4. Takip yolları (özet)
-- **Kambiyo senetlerine özgü haciz yolu:** Senedin kambiyo vasfı varsa hızlı takip. Borçlu, ödeme emrinin tebliğinden itibaren 5 gün içinde icra mahkemesine şikâyet ve borca itiraz yollarını kullanabilir (İİK m. 168). Bu başvuru takibi kendiliğinden durdurmaz; durdurma için mahkemenin karar vermesi gerekir (İİK m. 170/a).
+- **Kambiyo senetlerine özgü haciz yolu:** Senedin kambiyo vasfı varsa hızlı takip. Borçlu, ödeme emrinin tebliğinden itibaren 5 gün içinde icra mahkemesine şikâyet ve borca itiraz yollarını kullanabilir (İİK m. 168). Borca itiraz, icra mahkemesinden itirazın kabulüne dair karar getirilmezse cebri icrayı durdurmaz (md. 168/5); imza itirazı satıştan başka icra işlemlerini durdurmaz, mahkeme geçici durdurma kararı verebilir (md. 170). Ödeme emrinde ayrıca borcun ve masrafların **on gün** içinde ödenmesi ihtar edilir (md. 168/2, resmî metin).
 - **Genel haciz yolu veya dava:** Kambiyo vasfı yoksa.
 - **Protesto:** Ödeme reddi resmen tespiti; bazı rücu hakları için gerekli olabilir.
 - **Zamanaşımı (TTK m. 749):** Düzenleyen (borçlu) aleyhine talepler vadeden itibaren 3 yılda; müracaat borçlularına (cirantalar vb.) karşı protesto tarihinden itibaren 1 yılda; bedeli ödeyen müracaat borçlusunun diğerlerine karşı hakkı ödeme tarihinden itibaren 6 ayda zamanaşımına uğrar (TTK m. 749, 778 resmî metin; bonoda düzenleyen, poliçedeki kabul eden gibi sorumludur).

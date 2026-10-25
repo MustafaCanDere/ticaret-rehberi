@@ -72,22 +72,22 @@ Durum: ✅ doğrulandı · 🛠 düzeltildi · ⚠️ ikincil kaynakla teyit (re
 Claims were checked via web search; the official mevzuat.gov.tr PDFs were unreadable, so Turkish statute details come from SPK announcements, academic papers, law-firm notes and news. Errors fixed: usury needs profit motive, not a rate cap; cheque limitation is 3 years (TTK 814), not about 6 months; promissory-note essentials are five (not seven) with statutory presumptions; BDDK was founded in 1999 and started in September 2000; Fed dividend is capped at 6%; UNODC's own 2011 estimate was 2.7% of GDP. Items marked ❓ were not independently verified in this pass.
 
 ## Güncelleme 2: D7–D13 dosyaları
-Bu turda mevzuat.gov.tr'ye ağ bağlantısı kesildi (DNS çözülemedi); Vergi Usul Kanunu, İİK, KVK, KDV, Gümrük Kanunu ve 6563 resmî metinleri **okunamadı**. Bu yüzden aşağıdaki durumlar geçerlidir.
+Bu bölüm yazıldığında mevzuat.gov.tr'ye bağlantı kesikti; sonra bağlantı geri geldi ve ilgili kanunlar indirilip okundu. Satırlar bu okumaya göre güncellendi (aşağıdaki "Güncelleme 3" bölümüne de bakın).
 
 | İddia | Durum | Kaynak/Not |
 |---|---|---|
-| Kurumlar vergisi %25 (2025'ten), banka vb. %30 | ⚠️ | PwC oran tablosu (ikincil) |
-| KDV %20 / %10 / %1; ihracat %0 | ⚠️ | İkincil kaynaklar |
-| Gelir vergisi tarifesi dilimleri | ❓ | Verilmedi; yıllık değişir |
-| VUK 359 ceza aralıkları | ❓ | Kaynaklar çelişkili (3–8 yıl, 1–3 yıl, 18 ay–5 yıl); dosyada rakam verilmedi |
+| Kurumlar vergisi %25 (genel), %30 (banka vb.) | ✅ | **Resmî metin** KVK md. 32 (7394/2022) |
+| KDV: kanun oranı %10, Cumhurbaşkanı %1'e kadar indirme ve dört katına kadar artırma yetkili; %20/%10/%1 kararnameyle; ihracat teslimi istisna | ✅⚠️ | **Resmî metin** KDV md. 28, 11/1-a, 29. Kararname metni okunmadı |
+| Gelir vergisi tarifesi: %15, %20, %27, %35, %40; parantez içindeki yeniden değerlenmiş dilim tutarları | ✅ | **Resmî metin** GVK md. 103 (tutarların yılı metinde açık değil, yazıldı) |
+| VUK 359/a 18 ay–5 yıl; 359/b 3–8 yıl; 359/c 2–8 yıl; 359/ç 3–8 yıl (7394/2022) | ✅ | **Resmî metin.** İkincil kaynaklardaki çelişki bu şekilde çözüldü |
 | TTK md. 18, 19, 124, 125, 332, 376, 553, 580 | ✅ | **Resmî metin** (6102 PDF) |
 | Anonim 250.000 TL / kayıtlı sermayeli 500.000 TL, limited 50.000 TL (Cumhurbaşkanı kararı) | ✅⚠️ | 580 dipnotu ve ikincil kaynaklar; anonim tutarı karar metninden ayrıca doğrulayın |
 | Asgari sermaye uyum süresi 31/12/2027'ye uzatıldı | ⚠️ | Tek ikincil kaynak; Resmî Gazete'den doğrulayın |
 | TCK md. 161 hileli iflas 3–8 yıl; md. 162 taksirli iflas 2 ay–1 yıl | ✅ | **Resmî metin** |
 | TCK md. 245 kart kötüye kullanımı, 247 zimmet, 204 resmî belgede sahtecilik | ✅ | **Resmî metin** (D13/D6'da atıf) |
-| İflas erteleme kaldırıldı (7101, 2018) | ✅ | TTK 377 dipnotu ve hukuk kaynakları |
-| Konkordato mühlet süreleri | ⚠️ | Kaynaklar farklı (23-29 ay toplam) |
-| İİK itiraz süreleri (7 gün, 5 gün) | ⚠️ | İkincil kaynaklar |
+| İflas erteleme kaldırıldı (7101, 2018) | ✅ | TTK md. 377 ve İİK metinleri |
+| Konkordato: geçici mühlet 3 ay (+2, toplam ≤ 5 ay); kesin mühlet 1 yıl (+ 6 ay); itiraz 7 gün | ✅ | **Resmî metin** İİK md. 287-289 |
+| İİK: ilamsız takipte itiraz 7 gün (md. 62); itirazın iptali 1 yıl, icra inkâr tazminatı en az %20 (md. 67); kambiyo senedinde ödeme 10 gün, şikâyet/itiraz 5 gün (md. 168) | ✅ | **Resmî metin** |
 | 7518 sayılı Kanun RG 2 Temmuz 2024; 109/A | ✅ | SPKn resmî metni + SPK duyurusu |
 | Incoterms 2020: 11 kural, DPU DAT'ın yerine | ✅ | ICC kaynaklarının aktarımı |
 | UCP 600, URDG 758 | ❓ | Aramada kontrol edilmedi |
@@ -95,3 +95,23 @@ Bu turda mevzuat.gov.tr'ye ağ bağlantısı kesildi (DNS çözülemedi); Vergi 
 | 1 Ocak 2005 YTL, 1958 istikrar, 1930 TCMB, KKM Aralık 2021 | ❓ | Genel tarih bilgisi |
 | AMM ve geçici kayıp örnekleri | ✅ | Kendi hesabım (formüllerden) |
 | Tapu harcı, kira artış sınırı (TBK 344), 2022-24 %25 sınırı | ❓ | Genel bilgi; metin kontrol edin |
+
+## Güncelleme 3: resmî metinle doğrulama (VUK, İİK, KVK, KDV, GVK, Gümrük, 6563)
+mevzuat.gov.tr'den 213 (VUK), 2004 (İİK), 5520 (KVK), 3065 (KDV), 193 (GVK), 4458 (Gümrük) ve 6563 sayılı kanunların PDF'leri indirilip metne çevrildi ve ilgili maddeler doğrudan okundu. Çıkan sonuçlar:
+
+| İddia | Durum | Not |
+|---|---|---|
+| VUK md. 344: vergi ziyaı cezası 1 kat; 359 fiilleriyle 3 kat; iştirak 1 kat; geç beyanda %50; mükellefiyetsiz faaliyette %50 artış (7524/2024) | ✅ | **Resmî metin** |
+| VUK md. 114: zamanaşımı 5 yıl; md. 374: ceza kesme 5 yıl / usulsüzlük 2 yıl | ✅ | **Resmî metin** |
+| VUK md. 371: pişmanlık ve ıslah koşulları (inceleme başlamadan önce, 15 gün) | ✅ | **Resmî metin** |
+| KVK md. 12 (öz sermayenin 3 katı), md. 13 (emsallere uygunluk, %10 ortaklık) | ✅ | **Resmî metin** |
+| Gümrük Kanunu md. 4: sekiz gümrük rejimi | ✅🛠 | **Resmî metin.** "Gümrük kontrolü altında işleme" listeden eksikti, eklendi |
+| 6563: ETBİS ve ticari elektronik ileti tanımları | ✅ | **Resmî metin** |
+| İİK md. 277-279: tasarrufun iptali, bir yıllık süreler (md. 278 2025'te 7571 ile değişti) | ✅ | **Resmî metin** |
+| TCK md. 241, 252, 235, 282, 158, 161, 162, 245, 247, 204 | ✅ | Daha önce resmî metinden okundu |
+| 7258 sayılı Kanun (bahis) | ❌ | Dosya spor bahisleri/teşkilat düzenlemesini içeriyor; yasa dışı bahis cezası için kullanılmadı, depoda rakam yok |
+| Vergi mahkemesinde dava açma süresi (30 gün) | ❓ | İYUK indirilmedi; D7'de "genelde 30 gün, süreleri kaçırmayın" ifadesi ikincil bilgiye dayanıyor |
+| KDV Kararnamesi (%20/%10/%1), Gümrük Vergisi oranları | ❓ | Kararname metinleri okunmadı |
+| Dahilde işleme, A.TR, EUR.1 ayrıntıları | ❓ | Gümrük Kanunu rejim listesi doğrulandı, uygulama yönetmelikleri okunmadı |
+
+**Hata düzeltmeleri bu turda:** İİK "170/a" atfı yanlıştı (borca itiraz md. 168/5, imza itirazı md. 170'te); kambiyo takibinde **on gün** ödeme ihtarı eklendi; konkordato toplam süresi 23 ay olarak netleştirildi; VUK 359'un dört bendi ve cezaları ayrı ayrı yazıldı.

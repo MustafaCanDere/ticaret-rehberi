@@ -1,6 +1,6 @@
 # D7. Derin İnceleme: Vergi Sistemi, Planlama ve Vergi Suçları / Tax System, Planning and Tax Crimes
 
-> Oranlar ve tutarlar her yıl değişir; bu dosyadaki oranlar PwC, EY gibi kaynaklardan derlenmiş ikincil bilgidir. Vergi Usul Kanunu ve Gelir İdaresi metinleri bu oturumda indirilemedi. Sonuç için güncel mevzuata veya mali müşavire bakın. / Rates change yearly; verify against official sources.
+> Bu dosyadaki kanun maddeleri ve oranlar mevzuat.gov.tr'den indirilen resmî metinlerden (GVK, KVK, KDV, VUK) okunmuştur (✅). Her yıl yeniden değerlenen tutarlar ve Cumhurbaşkanı kararlarıyla belirlenen oranlar için güncel kararnameye bakın. / Statutes read from the official texts; revalued amounts and presidential-decree rates change.
 
 ## 1. Vergi türleri (harita)
 ```mermaid
@@ -18,7 +18,10 @@ flowchart TD
     M --> M2[MTV 197]
     M --> M3[Veraset ve intikal 7338]
 ```
-Oranlar (ikincil kaynaktan, bu tarihte): **Kurumlar vergisi genel oran %25** (2025'ten itibaren); bankalar, ödeme/e-para kuruluşları, sigorta, sermaye piyasası kurumları ve benzerleri için **%30**. **KDV: genel %20; %10 ve %1 indirimli oranlar; ihracat teslimi %0 (istisna).** Gelir vergisi dilimli tarifedir, üst oran %40 mertebesindedir; her yıl yeniden değerleme ile dilimler değişir, güncel tarife için Gelir İdaresi duyurusuna bakın.
+**Resmî metinden (✅):**
+- **Kurumlar vergisi (KVK md. 32):** Kurum kazancı üzerinden **%25**; bankalar, 6361 sayılı Kanun kapsamındaki şirketler, elektronik ödeme ve para kuruluşları, yetkili döviz müesseseleri, varlık yönetim şirketleri, sermaye piyasası kurumları, sigorta-reasürans ve emeklilik şirketleri ile yap-işlet-devret ve kamu-özel iş birliği projelerindeki şirketler için **%30**. (Bazı yıllar için geçici maddelerle farklı oranlar uygulandı.)
+- **KDV (3065 md. 28):** Kanun metnindeki oran %10'dur; Cumhurbaşkanı bu oranı **%1'e kadar indirmeye, dört katına kadar artırmaya** ve mal/hizmet türlerine göre farklı oranlar belirlemeye yetkilidir. Bugün uygulanan %20 / %10 / %1 oranları bu yetkiye dayanan Cumhurbaşkanı kararlarıyla belirlenir (karar metni bu oturumda okunmadı ⚠️). **İhracat teslimleri KDV'den müstesnadır** (md. 11/1-a); mükellef, hesaplanan KDV'den faaliyetiyle ilgili alışlarda ödediği KDV'yi indirir (md. 29).
+- **Gelir vergisi tarifesi (GVK md. 103):** Dilimli ve oranlar **%15, %20, %27, %35, %40**. Dilim sınırları her yıl yeniden değerlenir; metinde parantez içinde işlenen güncel tutarlar: 190.000 TL'ye kadar %15; 400.000 TL'ye kadar %20; 1.000.000 TL'ye kadar %27 (ücret gelirlerinde 1.500.000 TL); 5.300.000 TL'ye kadar %35; üstü %40. (Bu tutarların hangi yıla ait olduğu metinde açık yazmıyor; güncel yıl için Gelir İdaresi tebliğine bakın.)
 
 ## 2. KDV mekaniği: zincirde kim neyi öder?
 KDV, **katma değer** üzerinden alınır; her halka kendi hesapladığı KDV'den ödediği KDV'yi düşer, farkı öder.
@@ -38,9 +41,9 @@ Tüketici son fiyatta 40 TL KDV öder; devlete halkalar toplamda 40 TL yatırır
 - **Defter ve belge düzeni:** Fatura/e-fatura, e-arşiv, e-irsaliye, e-defter, serbest meslek makbuzu, gider pusulası. Belge düzeni kâğıttan elektronik sisteme geçmiştir; bu, Vergi Denetim Kurulu'nun çapraz kontrolünü güçlendirir.
 - **Ödevler:** Beyanname verme, defter tutma, saklama (genelde birkaç yıl), bildirim.
 - **İnceleme:** Yoklama, inceleme (vergi müfettişi/inceleme elemanı), arama. Risk analizi sistemleri (ör. VDK'nın veri analizi) sektör ve davranış anomalilerini işaretler.
-- **Cezalar (idari):** Vergi ziyaı cezası, özel usulsüzlük cezası, usulsüzlük cezası, gecikme faizi/zammı.
+- **Cezalar (idari, VUK md. 344 ✅):** Vergi ziyaına sebebiyet verenlere ziyaa uğratılan verginin **bir katı** vergi ziyaı cezası kesilir; ziyaa **VUK 359'daki fiillerle** sebebiyet verilirse ceza **üç kat**, bu fiillere iştirak edenlere bir kat uygulanır. Kanuni süre geçtikten sonra (inceleme başlamadan) verilen beyannamelerde ceza %50 oranında uygulanır. Mükellefiyet tesis ettirmeden, vergi dairesinin bilgisi dışında ticari/zirai/mesleki faaliyette bulunarak ziyaa sebebiyet verilirse ceza %50 artırılır (7524 sayılı Kanunla eklenen fıkra, 2024). Ayrıca özel usulsüzlük/usulsüzlük cezaları ve gecikme faizi/zammı vardır.
 - **Uyuşmazlık:** Tarhiyat öncesi uzlaşma, tarhiyat sonrası uzlaşma, vergi mahkemesinde dava (süreler kısadır, genelde 30 gün). Süreleri kaçırmak hak kaybı yaratır.
-- **Zamanaşımı:** Vergi alacağında genel olarak beş yıllık zamanaşımı mantığı vardır (güncel madde ve başlangıç için VUK'a bakın).
+- **Zamanaşımı (VUK md. 114 ✅):** Vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak **beş yıl** içinde tarh ve mükellefe tebliğ edilmeyen vergiler zamanaşımına uğrar. Ceza kesmede zamanaşımı da genel olarak beş yıldır (md. 374: vergi ziyaı cezası için; usulsüzlük cezalarında iki yıl).
 
 ## 4. Vergi planlaması mı, kaçakçılık mı? Çizgiler
 ```mermaid
@@ -58,14 +61,27 @@ flowchart LR
 | **Örtülü sermaye** | Ortaktan aşırı borçlanmayla faiz gideri yaratma (KVK 12) | Faiz gideri kabul edilmez |
 | **Kaçakçılık** | Gelirin saklanması, sahte belge, defter tahrifatı | Cezai yaptırım |
 
+**KVK md. 12 ve 13 (resmî metin ✅):**
+- **Örtülü sermaye (md. 12):** Kurumun ortaklarından veya ortaklarla ilişkili kişilerden temin ederek işletmede kullandığı borçların, hesap dönemi içinde herhangi bir tarihte **öz sermayenin üç katını aşan kısmı** örtülü sermaye sayılır. Ana faaliyet konusuna uygun faaliyet gösteren banka/kredi kurumlarından yapılan borçlanmalar %50 oranında dikkate alınır.
+- **Transfer fiyatlandırması (md. 13):** Kurumlar ilişkili kişilerle emsallere uygunluk ilkesine aykırı bedel veya fiyat üzerinden mal/hizmet alım-satımında bulunursa kazanç **örtülü olarak dağıtılmış** sayılır. İlişkili kişi: ortaklar, bağlı kişi/kurumlar, ortakların eşleri ve belirli derecedeki yakınları; vergi sistemi yeterli olmayan olarak ilan edilen ülke veya bölgelerdeki kişilerle yapılan tüm işlemler ilişkili kişilerle yapılmış sayılır. Ortaklık kanalıyla ilişkinin oluşması için en az %10 oran aranır.
+
 **OECD BEPS ve küresel asgari vergi:** Çok uluslu şirketlerin kârı düşük vergili yere kaydırmasını azaltmak için "Sütun 2" %15 küresel asgari vergi oranını hedefler. Türkiye de buna paralel bir "küresel asgari tamamlayıcı kurumlar vergisi" düzenlemesi yaptı (kapsam ve tarih için GİB duyurusuna bakın).
 
 ## 5. Vergi suçları ve sahte belge (anatomi, tanıma amaçlı)
 
-### 5.1 VUK 359: iki ana grup
-- **359/a:** Defter ve kayıtları tahrif etme, gizleme, yok etme; sahte veya hileli bilanço/hesap; "muhteviyatı itibarıyla yanıltıcı belge" gibi eylemler.
-- **359/b:** Sahte belge düzenleme ve kullanma.
-Cezalar yıllar içinde artırılmıştır; kaynaklar güncel cezalar için farklı aralıklar vermektedir (359/b için "3–8 yıl", 359/a için 1–3 veya 18 ay–5 yıl aralıkları dolaşıyor). **Güncel madde metnini kontrol edin; bu depo kesin ceza rakamı vermez.**
+### 5.1 VUK md. 359 (resmî metin ✅)
+**(a) bendi: 18 aydan 5 yıla kadar hapis.** Vergi kanunlarına göre tutulan veya düzenlenen, saklama ve ibraz zorunluluğu olan defter, kayıt ve belgelerde:
+1. Hesap ve muhasebe hileleri yapmak, gerçek olmayan veya kayda konu işlemlerle ilgisi bulunmayan kişiler adına hesap açmak, kaydı gereken hesap ve işlemleri vergi matrahının azalmasına yol açacak şekilde başka defter/belge/kayıt ortamlarına kaydetmek,
+2. Defter, kayıt ve belgeleri **tahrif etmek veya gizlemek**, **muhteviyatı itibarıyla yanıltıcı belge düzenlemek** veya bu belgeleri kullanmak.
+
+Noter tasdik kayıtlarıyla varlığı sabit olduğu hâlde inceleme sırasında defter ve belgelerin ibraz edilmemesi **gizleme** sayılır. *Muhteviyatı itibarıyla yanıltıcı belge*, gerçek bir muamele veya duruma dayanmakla birlikte bunu mahiyet veya miktar itibarıyla gerçeğe aykırı yansıtan belgedir.
+
+**(b) bendi: 3 yıldan 8 yıla kadar hapis.** Defter, kayıt ve belgeleri **yok etmek**, defter sayfalarını yok edip yerine başka yaprak koymak veya hiç koymamak, belgelerin asıl veya suretlerini tamamen/kısmen **sahte olarak düzenlemek** veya bu belgeleri **kullanmak**. *Sahte belge*, gerçek bir muamele veya durum olmadığı hâlde bunlar varmış gibi düzenlenen belgedir.
+
+**(c) bendi: 2 yıldan 8 yıla kadar hapis.** Maliye ile anlaşması olanların basabileceği belgeleri anlaşması olmadan basmak veya bilerek kullanmak.
+**(ç) bendi: 3 yıldan 8 yıla kadar hapis.** Yetkilendirilmeden ödeme kaydedici cihaz mührünü kaldırmak, donanım/yazılımına müdahale ederek satış kayıtlarını engellemek, değiştirmek veya silmek, elektronik kontrol sistemlerine veri iletilmesini önlemek.
+
+*Not:* 7394 sayılı Kanun (8/4/2022), (a) bendindeki "üç" ibaresini "beş", (b), (c) ve (ç) bentlerindeki "beş" ibarelerini "sekiz" yapmıştır. Maddenin sonraki fıkralarındaki ek hükümler için kanun metnine bakın.
 
 ### 5.2 Sahte fatura ekosistemi: roller
 ```mermaid
@@ -91,8 +107,15 @@ flowchart LR
 ### 5.4 Vergi kayıp ve kaçak ekonomi ilişkisi
 Kayıt dışı istihdam ve satış, vergi ve sigorta primi kaybı yaratır; kara para aklama ile iç içe geçer (aklamaya konu suç, alt sınırı altı ay veya daha fazla hapis gerektiren suç olduğunda TCK 282 uygulanır; vergi kaçakçılığı da bu kapsamda değerlendirilebilir).
 
-### 5.5 Etkin pişmanlık ve ıslah
-Vergi mevzuatı, mükellefin kendiliğinden beyan veya düzeltme yapması durumunda ceza ve faiz indirimi ("pişmanlık ve ıslah") sağlar; koşullar ve süreler mevzuatta sıkı biçimde tanımlıdır. Soruşturma başladıktan sonra yararlanılamayabilir. Bu yüzden **erken** başvuru önemlidir.
+### 5.5 Pişmanlık ve ıslah (VUK md. 371 ✅)
+Beyana dayanan vergilerde vergi ziyaı cezasını gerektiren fiilleri işleyen mükellef ve iştirak edenler, kanuna aykırı hareketlerini ilgili makamlara **kendiliğinden dilekçeyle** haber verirlerse vergi ziyaı cezası kesilmez; şartlar:
+1. Aynı hususta daha önce bir muhbir tarafından resmî makama ihbar yapılmamış olmalı,
+2. Haber verme, ilgili vergi türüne ilişkin **vergi incelemesine başlandığı veya takdir komisyonuna sevk edildiği günden önce** (kaçakçılık suçu teşkil eden fiillerin işlendiğinin tespitinden önce) yapılmış olmalı,
+3. Hiç verilmemiş beyannameler bildirim tarihinden itibaren **15 gün** içinde verilmeli,
+4. Eksik/yanlış beyan **15 gün** içinde tamamlanmalı veya düzeltilmeli,
+5. Ödeme süresi geçmiş vergiler, gecikme zammıyla birlikte **15 gün** içinde ödenmeli.
+
+Emlak vergisinde uygulanmaz. Yani pişmanlık, ancak **inceleme başlamadan önce** ve kısa sürelerle yapılan kendiliğinden başvuruda işler.
 
 ## 6. Vergi planlama kontrol listesi (yasal)
 1. İş modeli ve sözleşmeler **ticari gerçeklikle** örtüşüyor mu?

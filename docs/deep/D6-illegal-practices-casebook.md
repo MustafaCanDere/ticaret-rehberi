@@ -217,6 +217,9 @@ mevzuat.gov.tr PDF'lerinden okunmuştur (TCK, SPKn, Çek Kanunu, 5549, 6502, 405
 | İhaleye fesat karıştırma | TCK 235 | 3–7 yıl hapis (cebir/tehditle alt sınır 5 yıl) |
 | Suç örgütü kurma/yönetme | TCK 220 | 5–10 yıl; üyelik 2–5 yıl (2025 değişikliğiyle güncel metin) |
 | Suçtan kaynaklanan malvarlığını aklama | TCK 282 | 3–7 yıl hapis ve 20.000 güne kadar adli para; bilerek satın alan/kabul eden/kullanan: 2–5 yıl; kamu görevlisi veya meslek mensubu: yarı artış; örgüt: bir kat |
+| Defter/kayıt hileleri, muhteviyatı itibarıyla yanıltıcı belge | VUK 359/a | 18 ay–5 yıl hapis (7394/2022 sonrası) |
+| Sahte belge düzenleme/kullanma, defter yok etme | VUK 359/b | 3–8 yıl hapis (7394/2022 sonrası) |
+| Vergi ziyaı cezası (idari) | VUK 344 | Ziyaa uğratılan verginin 1 katı; 359 fiilleriyle 3 kat |
 | Tefecilik | TCK 241 | 2–6 yıl hapis ve 500–5.000 gün adli para; örgüt faaliyetinde bir kat artış |
 | İçeriden öğrenenlerin ticareti | SPKn 106 | 3–5 yıl hapis veya adli para (menfaatin 2 katından az olamaz) |
 | Piyasa dolandırıcılığı | SPKn 107 | 3–5 yıl hapis ve 5.000–10.000 gün (işlem bazlı); bilgi bazlı 5.000 güne kadar |

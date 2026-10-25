@@ -1,6 +1,6 @@
 # D12. Derin İnceleme: Dış Ticaret, Gümrük ve Ödeme Teknikleri / Foreign Trade, Customs and Payment Methods
 
-> Eğitim amaçlıdır. Gümrük vergisi, ek vergi, kota ve prosedürler sık değişir; kesin değerler için Ticaret Bakanlığı ve gümrük müşavirinizi kullanın. Incoterms 2020 bilgisi doğrulandı (✅). / Educational; rates and procedures change.
+> Eğitim amaçlıdır. Gümrük vergisi, ek vergi, kota ve prosedürler sık değişir. Gümrük rejimleri 4458 sayılı Gümrük Kanunu md. 4'ten, KDV ihracat istisnası 3065 sayılı KDV Kanunu md. 11/1-a'dan okunmuş, Incoterms 2020 bilgisi ICC kaynaklarından doğrulanmıştır (✅). / Customs regimes read from Law 4458; VAT export exemption from Law 3065.
 
 ## 1. Dış ticaret akışı
 ```mermaid
@@ -75,6 +75,8 @@ CIF değeri 10.000 USD (varsayım) ve gümrük vergisi %10 (örnek), KDV %20:
 Ek unsurlar: ilave gümrük vergisi, ek mali yükümlülük, damga vergisi, gümrük müşavir ücreti, antrepo ve demuraj, nakliye ve sigorta (CIF'e dahil değilse). **KDV** çoğunlukla indirilebilir, bu yüzden nakit akışına etkisi geçicidir.
 
 ## 5. Gümrük rejimleri ve belgeler
+Gümrük Kanunu md. 4'e göre gümrük rejimleri **sekizdir** (✅): serbest dolaşıma giriş, transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme, geçici ithalat, hariçte işleme ve ihracat rejimi. Serbest bölgeler ayrı bir düzenlemeye tabi bölgelerdir.
+
 | Rejim / belge | Amaç |
 |---|---|
 | **Serbest dolaşıma giriş** | İthal malı ülkede serbestçe kullanım |
@@ -83,6 +85,7 @@ Ek unsurlar: ilave gümrük vergisi, ek mali yükümlülük, damga vergisi, güm
 | **Geçici ithalat / ihracat** | Belirli süre sonra geri çıkış/dönüş |
 | **Dahilde işleme rejimi (DİR)** | İhraç edilecek ürünün girdisini vergisiz ithal etme |
 | **Hariçte işleme** | Yurt dışında işlenecek malın çıkışı |
+| **Gümrük kontrolü altında işleme** | Yabancı malın serbest dolaşıma girmeden gümrük gözetiminde işlenmesi |
 | **Antrepo / serbest bölge** | Vergi ve kısıtlama ertelemeli depolama / üretim |
 | **Menşe belgesi, EUR.1, A.TR** | Tercihli tarife (Gümrük Birliği, serbest ticaret anlaşmaları) ❓ |
 | **GTİP / HS kodu** | Mal sınıflandırması: vergi, kota ve mevzuat buna bağlı |

@@ -1,6 +1,6 @@
 # D10. Derin İnceleme: Şirketler, İcra, İflas ve Konkordato / Companies, Enforcement, Bankruptcy
 
-> Şirket maddeleri 6102 sayılı TTK resmî metninden okundu (✅). İcra İflas Kanunu (İİK) ve konkordato süreleri ikincil kaynaklara dayanır (⚠️). Hukuki karar için avukata danışın. / TTK read from the official text; İİK parts from secondary sources.
+> Şirket maddeleri 6102 sayılı TTK'dan, icra ve konkordato maddeleri 2004 sayılı İİK'dan resmî metinden okundu (✅). Süreler ve tutarlar zamanla değişir. Hukuki karar için avukata danışın. / TTK and İİK read from the official texts.
 
 ## 1. Ticari işletme ve tacir
 - **Tacir** (TTK md. 18 ✅): Her türlü borcu için **iflasa tabidir**; ticaret unvanı seçmek, ticaret siciline tescil ve ticari defter tutmakla yükümlüdür; ticaretine ait faaliyetlerinde **basiretli bir iş adamı gibi** hareket etmelidir.
@@ -39,7 +39,7 @@ flowchart TD
 3. **Borca batıklık şüphesi** varsa yönetim kurulu hem **devamlılık esasına göre** hem **muhtemel satış değerleri üzerinden** ara bilanço çıkarır. Aktifler alacaklıları karşılamıyorsa **asliye ticaret mahkemesine bildirir ve iflası ister**. Yazılı rütbe geriletme (alacağın en sona bırakılması) sözleşmesi, bilirkişi doğrulamasıyla iflası engelleyebilir.
 **Yönetim kurulu için kritik risk:** Borca batık olduğunu bildiği/bilmesi gerektiği hâlde mahkemeye bildirmeyen yöneticiler zarardan sorumlu tutulabilir (md. 553 ✅: kusurla yükümlülüğü ihlal eden kurucular, yönetim kurulu üyeleri ve yöneticiler **şirkete, pay sahiplerine ve alacaklılara** karşı sorumludur).
 
-## 5. İcra takibinin genel akışı (⚠️)
+## 5. İcra takibinin genel akışı (✅ İİK)
 ```mermaid
 flowchart TD
     A[Alacaklı takip talebi] --> B{Takip türü}
@@ -53,8 +53,8 @@ flowchart TD
     G --> J[Satış / paraya çevirme]
     J --> K[Alacaklılara dağıtım ve sıra cetveli]
 ```
-- **İlamsız takipte** ödeme emrine itiraz süresi yedi gündür (⚠️ İİK genel kural). İtiraz takibi durdurur; alacaklı **itirazın iptali davası** veya itirazın kaldırılması yoluna gider.
-- **Kambiyo senedi takibinde** (çek, bono, poliçe): ödeme emrine 5 gün içinde icra mahkemesine **şikâyet ve borca itiraz**; başvuru kendiliğinden takibi durdurmaz (⚠️, bkz. [07](../07-cheques-and-promissory-notes.md)).
+- **İlamsız takipte (İİK md. 62 ✅):** Borçlu, ödeme emrinin tebliğinden itibaren **yedi gün** içinde dilekçeyle veya sözlü olarak icra dairesine itiraz etmek zorundadır. İtiraz takibi durdurur. Alacaklı, itirazın tebliğinden itibaren **bir yıl** içinde mahkemeye başvurup **itirazın iptalini** dava edebilir (md. 67); davada itirazın haksızlığına karar verilirse borçlu, alacaklının talebi üzerine **hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere** tazminata mahkûm edilir (icra inkâr tazminatı); alacaklı takibinde haksız ve kötü niyetliyse aynı esasla tazminat ona yüklenir. Belirli belgelere (imzası ikrar edilen veya noterce tasdikli borç ikrarı, resmî makbuz vb.) dayanan takiplerde 6 ay içinde itirazın kesin kaldırılması istenebilir (md. 68).
+- **Kambiyo senedi takibinde (İİK md. 168 ✅):** İcra memuru senedin kambiyo senedi olduğunu ve vadesinin geldiğini görürse borçluya hemen ödeme emri gönderir. Ödeme emrinde borcun ve takip masraflarının **on gün** içinde ödenmesi ihtar edilir. Borçlu **beş gün** içinde icra mahkemesine; senet kambiyo vasfı taşımıyorsa **şikâyet**, imzanın kendisine ait olmadığı iddiası varsa **imza itirazı**, borçlu olmadığı veya borcun itfa edildiği, mehil verildiği, zamanaşımı ve yetki itirazlarını **borca itiraz** olarak bildirebilir; icra mahkemesinden itirazın kabulüne dair karar getirilmezse cebri icraya devam edilir. İmza itirazı satıştan başka icra işlemlerini durdurmaz, mahkeme geçici durdurma kararı verebilir (md. 170). İmzasını haksız yere inkâr eden borçlu, takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilebilir (md. 168/4). Bkz. [07](../07-cheques-and-promissory-notes.md).
 - **Haciz:** Mal varlığı tespit, bankalar ve tapu kaydı sorgusu, araç ve maaş haczi; **haczedilemeyen** mallar (zorunlu ihtiyaç eşyası, kısmen maaş vb.) vardır.
 - **İhale ve satış:** Haczedilen mal satılır; alacaklılar sıra cetveline göre paylaşır (rehinli alacaklılar öncelikli).
 - **Kamu alacakları** (vergi, SGK) için ayrı tahsil usulü vardır (6183 sayılı Kanun); ortak/yönetici sorumluluğu gündeme gelebilir ⚠️.
@@ -65,11 +65,15 @@ flowchart TD
 - İflas kararıyla borçlunun mal varlığı **iflas masası** olur; kayyum/tasfiye memuru atanır, alacaklılar masaya kayıt yaptırır, mal paraya çevrilir ve **sıra cetveline** göre dağıtılır (rehinli alacaklar, işçi alacakları, kamu alacakları vb. öncelik sıraları).
 - **İflas erteleme kurumu** 2018'de 7101 sayılı Kanunla kaldırıldı ✅; yerine konkordato kapsamı genişletildi.
 
-## 7. Konkordato (⚠️)
-- **Amaç:** Borçlunun alacaklılarla anlaşarak borçlarını yeniden yapılandırması; iflasın önlenmesi.
-- **Aşamalar:** Başvuru → **geçici mühlet** (genellikle 3 ay, belirli şartlarla uzatma) → **kesin mühlet** (genellikle 1 yıl, belirli şartlarla uzatma) → alacaklılar kurulu oylaması ve mahkeme tasdiki.
-- **Etkiler:** Mühlet boyunca takipler durur, tasarruf yetkisi sınırlanır, komiser atanır.
-- **Kötüye kullanım riski:** Gerçek bir kurtarma amacı olmadan **zaman kazanmak** için başvuru; mahkemeler iyi niyet ve projeyi inceler. Süre uzatma sınırları kaynaklarda farklı anlatılıyor, İİK'nın güncel metnine bakın.
+## 7. Konkordato (İİK md. 285-296 ✅)
+- **Başvuru koşulu (md. 285):** Borçlarını vadesi geldiği hâlde ödeyemeyen veya vadesinde ödeyememe tehlikesi altında bulunan herhangi bir borçlu, vade verilmek veya tenzilat yapılmak suretiyle borçlarını ödeyebilmek veya muhtemel bir iflastan kurtulmak için konkordato talep edebilir. İflas talebinde bulunabilecek her alacaklı da gerekçeli dilekçeyle borçlu hakkında konkordato işlemlerinin başlatılmasını isteyebilir.
+- **Geçici mühlet (md. 287):** Mahkeme, istenen belgelerin eksiksiz olduğunu görünce derhâl geçici mühlet verir ve malvarlığının muhafazası için gerekli tedbirleri alır; **geçici konkordato komiseri** görevlendirilir. Geçici mühlet **üç aydır**; süre dolmadan talep üzerine **en fazla iki ay** uzatılabilir, **toplam beş ayı geçemez**.
+- **İlan ve itiraz (md. 288):** Mühlet kararı ticaret sicili gazetesinde ve resmî ilan portalında ilan edilir; alacaklılar ilandan itibaren **yedi gün** içinde itiraz edebilir.
+- **Kesin mühlet (md. 289):** Konkordatonun başarıya ulaşması mümkünse borçluya **bir yıllık** kesin mühlet verilir; güçlük arz eden özel durumlarda komiserin gerekçeli raporu ve talebi üzerine **altı aya kadar** uzatılabilir. Alacaklılar kurulu (en çok yedi alacaklı, tek sayıda) oluşturulabilir.
+- **Toplam süre:** Geçici (3+2) ve kesin (12+6) mühletler birlikte düşünüldüğünde azami toplam yaklaşık **23 ay**dır.
+- **Devam eden sözleşmeler (md. 296):** Borçlunun faaliyetinin devamı için önem arz eden sözleşmelerin devamı esastır; "konkordato başvurusu fesih sebebidir" tipi sözleşme hükümleri uygulanmaz.
+- **Etkiler:** Mühlet boyunca takipler durur, tasarruf yetkisi sınırlanır, komiser borçlunun faaliyetlerine nezaret eder.
+- **Kötüye kullanma riski:** Gerçek bir kurtarma amacı olmadan **zaman kazanmak** için başvuru; mahkemeler iyi niyet ve projeyi inceler.
 
 ## 8. Yasa dışı yönler: iflasla ilgili suçlar (anatomi)
 
@@ -83,8 +87,11 @@ flowchart TD
 ### 8.2 Taksirli iflas (TCK md. 162 ✅)
 Tacir olmanın gerektirdiği dikkat ve özeni göstermemek yüzünden iflasa sebebiyet verme: **iki aydan bir yıla kadar hapis**.
 
-### 8.3 Tasarrufun iptali ve muvazaa
-Borçlunun, alacaklılara zarar vermek için borç ödeme güçlüğü sırasında mal kaçırması (üçüncü kişiye bedelsiz veya muvazaalı devir) **tasarrufun iptali davası** ile geri alınabilir (İİK ilgili hükümleri ⚠️). Şüpheli dönem (iflastan önceki belirli süre) içindeki devirler özellikle incelenir.
+### 8.3 Tasarrufun iptali ve muvazaa (İİK md. 277-279 ✅)
+Borçlunun alacaklılara zarar verecek tasarrufları, **geçici veya kesin aciz belgesi** bulunan her alacaklı veya iflas idaresi tarafından açılacak iptal davasıyla geri alınabilir (md. 277).
+- **İvazsız tasarruflar (md. 278, 2025 değişikliğiyle):** Alışılmış hediyeler dışında, aciz belgesinin (veya aciz belgesi niteliğindeki haciz tutanağının) düzenlendiği ya da iflasın açıldığı tarihten **önceki bir yıl** içinde yapılan bütün bağışlamalar ve ivazsız tasarruflar iptale tabidir. Şunlar **bağışlama sayılır:** altsoy/üstsoy, üçüncü derece dâhil kan ve kayın hısımları, eş ve evlat edinenle yapılan tasarruflar (gerçek değerine uygun ivazlı olduğu ispatlanmadıkça); sözleşme sırasında gerçek değerine göre pek aşağı bir bedelle yapılan sözleşmeler (aksi ispatlanmadıkça); ömür boyu gelir, intifa ve bakma sözleşmeleri (uygun karşılık ispatlanmadıkça).
+- **Acizden dolayı butlan (md. 279):** Borcunu ödemeyen borçlunun, hacizden veya mal bulunmaması sebebiyle acizden ya da iflasın açılmasından önceki **bir sene** içinde yaptığı şu tasarruflar batıldır: mevcut bir borcu temin için (önceden taahhüt edilmemiş) rehin vermek; para veya mutat ödeme vasıtaları dışında ödeme; vadesi gelmemiş borcun ödenmesi.
+Yani mal kaçırma amacıyla yapılan devirler, **yakınlara ve kısa sürede** yapıldığında özellikle risklidir.
 
 ### 8.4 Tanıma göstergeleri (alacaklı/ denetçi)
 - Borç çok artarken malvarlığının akrabalara, yeni şirketlere devri
