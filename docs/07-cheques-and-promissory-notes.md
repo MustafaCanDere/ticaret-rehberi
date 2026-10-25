@@ -9,7 +9,7 @@
 - **Ne işe yarar:** Keşidecinin bankadaki hesabından, hamile ya da lehtara ödeme yapılmasını emreden kıymetli evrak. Vadesiz bir ödeme aracıdır: ibraz edildiğinde ödenir.
 - **Vadeli çek:** Çek üzerinde ileri tarih yazılsa bile çek "görüldüğünde ödenir"dir. Pratikte vade gibi kullanılsa da hukuken ibraz günü önemlidir.
 - **İbraz süreleri (TTK m. 796):** Düzenleme yeri ve ödeme yeri aynıysa 10 gün, farklı bir yerde ödenecekse 1 ay. Yurt dışında düzenlenen çeklerde aynı kıtada 1 ay, farklı kıtada 3 ay. Süreler hak düşürücüdür, düzenleme günü sayılmaz; süre tatile denk gelirse ilk iş gününe uzar.
-- **Zamanaşımı (TTK m. 814):** Hamilin çirantalara ve düzenleyene karşı başvuru hakları ibraz süresinin bitiminden itibaren 3 yılda zamanaşımına uğrar (ikincil kaynaklara göre; güncel metni doğrulayın).
+- **Zamanaşımı (TTK m. 814, resmî metin):** Hamilin çirantalara, düzenleyene ve diğer çek borçlularına karşı başvuru hakları ibraz süresinin bitiminden itibaren 3 yılda zamanaşımına uğrar (metin 2012'de 6273 sayılı Kanunla "altı ay"dan "üç yıl"a çıkarılmıştır). Bir çek borçlusunun diğerine karşı hakkı da çeki ödediği veya aleyhine dava açıldığı tarihten itibaren 3 yıldır.
 - **Bankanın karşılık sorumluluğu:** Banka, hesapta yeterli karşılık olmasa bile kanunda belirlenen tutara kadar ödeme yapmakla yükümlü olabilir; tutarlar güncellenir.
 
 ```mermaid
@@ -22,11 +22,20 @@ flowchart TD
     E --> G[Keşideciye idari/cezai yaptırımlar ve çek yasağı]
 ```
 
-**Karşılıksız çek (Çek Kanunu md. 5–6):** 2012 değişikliğinden sonra hapis cezası kaldırıldı; hamilin şikâyeti üzerine adli para cezası verilir (her çek için en çok 1.500 güne kadar). Şikâyet süresi öğrenmeden itibaren 3 ay, her hâlde 1 yıldır. Mahkeme çek düzenleme ve çek hesabı açma yasağı koyabilir; karşılıksız kalan bedel temerrüt faiziyle ödenirse yasak kaldırılabilir. Yasak kaydı 10 yıl sonra silinir. Ayrıca icra takibi ve bankada kayıt sonuçları doğar. (Ayrıntılar ve tutarlar değişir; güncel Çek Kanunu'nu kontrol edin.)
+**Karşılıksız çek (5941 sayılı Çek Kanunu md. 3, 5, 6; resmî metinden):**
+- **Ceza (md. 5/1):** Süresinde ibrazda "karşılıksızdır" işlemine sebep olan kişiye, hamilin şikâyeti üzerine her çek için **1.500 güne kadar adli para cezası**; ceza çekin karşılıksız kalan miktarından az olamaz. Mahkeme ayrıca **çek düzenleme ve çek hesabı açma yasağı** koyar; yargılama sırasında koruma tedbiri olarak da resen karar verilebilir. Davalar icra mahkemesinde görülür. Önödeme, uzlaşma ve hükmün açıklanmasının geri bırakılması uygulanmaz (md. 5/10). Adli para cezası ödenmezse doğrudan hapse çevrilir (md. 5/11).
+- **Sorumlu kişi:** Çek hesabı sahibi; tüzel kişide mali işleri yürütmekle görevli yönetim organı üyesi, belirlenmemişse yönetim organını oluşturan kişiler (md. 5/2). Yasaklılar yasak süresince sermaye şirketlerinin yönetim organlarında görev alamaz; elindeki tüm çek yapraklarını bankalara iade eder ve 10 gün içinde düzenlediği, karşılığı tahsil edilmemiş çeklerin listesini muhatap bankaya verir (md. 5/6–7).
+- **Etkin pişmanlık (md. 6):** Karşılıksız kalan bedeli, ibraz tarihinden itibaren ticari işlerde temerrüt faiziyle birlikte tamamen ödeyen hakkında yargılama aşamasında dava düşer, mahkûmiyet kesinleşmişse hüküm bütün sonuçlarıyla ortadan kalkar; şikâyetten vazgeçmede de aynı. Yasağın kaldırılması, cezanın infazından 3 yıl ve her hâlde yasak tarihinden 10 yıl geçtikten sonra istenebilir.
+- **Banka sorumluluğu (md. 3):** Banka, süresinde ibraz edilen her çek yaprağı için kanundaki tutara kadar ödeme yapmakla yükümlüdür (baz tutar 1.000 TL; her yıl Ocak ayında TÜİK fiyat endekslerine göre TCMB belirler ve Resmî Gazete'de yayımlar). Ödemeyi geciktirirse hamile günlük binde üç gecikme cezası öder. Bankanın bu sorumluluğu, çek yaprağının basım tarihinden itibaren 5 yıl içinde ibraz edilmezse sona erer.
+- **İleri tarihli çek (md. 3/8):** Çekin düzenleme tarihinden önce ibrazında karşılık ödenmemişse hukuki takip yapılamaz. İleri tarihli çekle takip için çekin, üzerindeki düzenleme tarihine göre kanuni ibraz süresi içinde bankaya ibraz edilip "karşılıksızdır" işlemi yapılması gerekir.
+- **Diğer suçlar (md. 7):** Tacir olmayan kişinin ticari amaçla çek defteri kullanarak çek düzenlemesi 6 ay–2 yıl hapis; yasaklıyken çek düzenleme 1–3 yıl hapis; yetkisiz çek defteri basma 2–5 yıl hapis ve 1.500 güne kadar adli para cezası; bankaya gerçeğe aykırı beyan 3 ay–2 yıl hapis.
+- Bazı mahkûmiyetlerin infazı geçici maddelerle durdurulmuş ve taksitle ödeme imkânı tanınmıştır; tarihler birkaç kez uzatıldı (son değişiklik 7566 sayılı Kanunla, 2025). Güncel durum için Çek Kanunu'nun geçici maddelerine bakın.
 
 ### 7.2 Senet (bono)
 - **Ne işe yarar:** Borçlunun belirli vadede belirli tutarı ödemeyi yazılı taahhüt ettiği kıymetli evrak.
-- **Zorunlu unsurlar (TTK m. 776):** "Bono" veya "emre yazılı senet" ibaresi, kayıtsız şartsız belirli bir bedeli ödeme vaadi, lehtarın adı, düzenleme tarihi ve düzenleyenin imzası. Vade, ödeme yeri ve düzenleme yeri yazılmamışsa kanunda karineler vardır (ör. vade yoksa görüldüğünde ödenir sayılır); zorunlu unsurlardan biri eksikse belge bono sayılmaz, adi borç senedi olabilir.
+- **Unsurlar (TTK m. 776, resmî metin):** (a) "Bono" veya "emre yazılı senet" kelimesi, (b) kayıtsız şartsız belirli bir bedeli ödeme vaadi, (c) vade, (d) ödeme yeri, (e) kime veya kimin emrine ödeneceği, (f) düzenlenme tarihi ve yeri, (g) düzenleyenin imzası.
+- **Eksik unsur (TTK m. 777):** Bu unsurlardan birini içermeyen senet bono sayılmaz; ancak üç istisna vardır: vade yazılmamışsa **görüldüğünde ödenir** sayılır; ödeme yeri belli değilse düzenleme yeri ödeme yeri ve düzenleyenin yerleşim yeri sayılır; düzenleme yeri yoksa düzenleyenin adının yanındaki yerde düzenlenmiş sayılır. Dolayısıyla bono ibaresi, ödeme vaadi, lehtar, tarih ve imza eksik olamaz.
+- Bonoya poliçe hükümlerinin önemli bölümü (ciro, vade, rücu, zamanaşımı, avale) TTK m. 778–779 ile uygulanır.
 - **Tahsil:** Süresinde ödenmezse kambiyo senetlerine özgü icra takibi mümkündür; hızlı yoldur.
 - **Senet türleri (özet):** Bono (düzenleyen borçlu), poliçe (üçüncü kişiye ödeme emri).
 

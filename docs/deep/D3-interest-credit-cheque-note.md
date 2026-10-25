@@ -115,8 +115,8 @@ flowchart TD
 - **İbraz süresi (TTK m. 796):** Düzenleme yeri ile ödeme yeri aynıysa 10 gün; farklı bir yerde ödenecekse 1 ay; yurt dışında düzenlenen çeklerde aynı kıtada 1 ay, farklı kıtada 3 ay. Süreler çekte yazılı düzenleme tarihinin ertesi gününden başlar ve hak düşürücüdür; son gün tatile denk gelirse ilk iş gününe uzar. İleri tarihli çekte çek üzerindeki tarih esas alınır. Süre geçince hamilin rücu hakları sınırlanır.
 - **Banka ödeme sorumluluğu:** Kanunda belirlenen tutara kadar karşılık yoksa bile banka ödeme yapar ve keşideciden tahsil eder (sistem güncel tutarlar belirler).
 - **Vadeli çek:** İleri tarihli çek hukuken ibrazda ödenir. Taraflar arasında vade yazılsa da bankaya erken ibraz edilebilir; bu yüzden çek "vade aracı" değildir.
-- **Zamanaşımı (TTK m. 814):** Hamilin çirantalara, düzenleyene ve diğer çek borçlularına karşı başvuru hakları ibraz süresinin bitiminden itibaren 3 yılda zamanaşımına uğrar (2012'de 6273 sayılı Kanun'la değişen metne göre; ikincil kaynaklardan derlenmiştir, güncel metni doğrulayın).
-- **Karşılıksız çek (Çek Kanunu md. 5–6):** 2012 değişikliğiyle hapis cezası kaldırıldı; hamilin şikâyeti üzerine her çek için en çok 1.500 güne kadar adli para cezası verilir. Şikâyet süresi öğrenmeden itibaren 3 ay, her hâlde 1 yıldır. Mahkeme çek düzenleme ve çek hesabı açma yasağı koyabilir; karşılıksız kalan bedel temerrüt faiziyle ödenirse yasak savcı tarafından kaldırılabilir; yasak kaydı 10 yıl sonra Merkez Bankası tarafından silinir. Banka ödeme sorumluluğu tutarları (md. 3) güncellenir, resmî duyuruya bakın.
+- **Zamanaşımı (TTK m. 814, resmî metin):** Hamilin çirantalara, düzenleyene ve diğer çek borçlularına karşı başvuru hakları ibraz süresinin bitiminden itibaren **3 yıl** sonra zamanaşımına uğrar (2012'de 6273 sayılı Kanunla "altı ay"dan "üç yıl"a çıkarıldı). Çek borçlusunun diğerine karşı hakkı, çeki ödediği veya aleyhine dava açıldığı tarihten itibaren 3 yıldır.
+- **Karşılıksız çek (5941 sayılı Çek Kanunu md. 3, 5, 6; resmî metinden):** Hamilin şikâyeti üzerine her çek için **1.500 güne kadar adli para cezası**; ceza çekin karşılıksız kalan miktarından az olamaz. Mahkeme çek düzenleme ve çek hesabı açma yasağı koyar (yargılamada koruma tedbiri olarak da). Ödenmeyen adli para cezası doğrudan hapse çevrilir; önödeme, uzlaşma ve HAGB uygulanmaz. Karşılıksız bedel ibraz tarihinden itibaren ticari temerrüt faiziyle tamamen ödenirse dava düşer veya hüküm ortadan kalkar (md. 6). Yasağın kaldırılması, cezanın infazından 3 yıl ve yasak tarihinden 10 yıl geçince istenebilir. Banka ödeme sorumluluğunun baz tutarı 1.000 TL'dir; TCMB her Ocak ayında güncel tutarı ilan eder (md. 3/3). Ayrıntı için [07 numaralı dosyaya](../07-cheques-and-promissory-notes.md) bakın.
 - **Kaybolma/çalınma:** Bankaya yazılı bildirim, ilgili mahkemeye iptal/ödeme yasağı başvurusu.
 
 ### C4. Çek riskleri ve sahtecilik türleri
@@ -137,15 +137,16 @@ flowchart TD
 ## Bölüm D. Senet / Bono (ayrıntılı)
 
 ### D1. Unsurlar (TTK'ya göre özet)
-**Zorunlu unsurlar (TTK m. 776):**
-1. Senet metninde "bono" veya "emre yazılı senet" ibaresi,
+**Unsurlar (TTK m. 776, resmî metin):**
+1. "Bono" veya "emre yazılı senet" kelimesi,
 2. Kayıtsız şartsız belirli bir bedeli ödeme vaadi,
-3. Lehtarın (kime veya kimin emrine ödeneceği) adı,
-4. Düzenleme tarihi,
-5. Düzenleyenin (borçlunun) imzası.
+3. Vade,
+4. Ödeme yeri,
+5. Kime veya kimin emrine ödeneceği (lehtar),
+6. Düzenlenme tarihi ve yeri,
+7. Düzenleyenin imzası.
 
-**Eksikse kanuni karine olan unsurlar:** Vade yazılmamışsa görüldüğünde ödenir sayılır; ödeme yeri yazılmamışsa düzenleme yeri veya düzenleyenin adının yanındaki yer esas alınır (ayrıntı için TTK ilgili maddelerine bakın).
-Zorunlu unsurlardan biri eksikse belge bono sayılmaz; "kambiyo senedi" niteliğini yitirir, adi borç senedi olarak kalabilir.
+**Eksikse (TTK m. 777):** Bu unsurlardan birini içermeyen senet **bono sayılmaz**; yalnızca şu üç istisna vardır: vade yazılmamışsa görüldüğünde ödenir sayılır; ödeme yeri belirsizse düzenleme yeri ödeme yeri ve düzenleyenin yerleşim yeri sayılır; düzenleme yeri yoksa düzenleyenin adının yanındaki yer esas alınır. Bu nedenle bono ibaresi, ödeme vaadi, lehtar, düzenleme tarihi ve imza eksik olamaz. Bono vasfını kaybeden belge adi borç senedi olarak kalabilir.
 
 ### D2. Vade çeşitleri
 Görüldüğünde ödenir · görüldükten belirli süre sonra · düzenleme tarihinden belirli süre sonra · belirli bir günde.
@@ -158,7 +159,7 @@ Görüldüğünde ödenir · görüldükten belirli süre sonra · düzenleme ta
 - **Kambiyo senetlerine özgü haciz yolu:** Senedin kambiyo vasfı varsa hızlı takip. Borçlu, ödeme emrinin tebliğinden itibaren 5 gün içinde icra mahkemesine şikâyet ve borca itiraz yollarını kullanabilir (İİK m. 168). Bu başvuru takibi kendiliğinden durdurmaz; durdurma için mahkemenin karar vermesi gerekir (İİK m. 170/a).
 - **Genel haciz yolu veya dava:** Kambiyo vasfı yoksa.
 - **Protesto:** Ödeme reddi resmen tespiti; bazı rücu hakları için gerekli olabilir.
-- **Zamanaşımı (TTK m. 749):** Düzenleyen (borçlu) aleyhine talepler vadeden itibaren 3 yılda; müracaat borçlularına (cirantalar vb.) karşı protesto tarihinden itibaren 1 yılda; bedeli ödeyen müracaat borçlusunun diğerlerine karşı hakkı ödeme tarihinden itibaren 6 ayda zamanaşımına uğrar (ikincil kaynaklardan; güncel metni doğrulayın).
+- **Zamanaşımı (TTK m. 749):** Düzenleyen (borçlu) aleyhine talepler vadeden itibaren 3 yılda; müracaat borçlularına (cirantalar vb.) karşı protesto tarihinden itibaren 1 yılda; bedeli ödeyen müracaat borçlusunun diğerlerine karşı hakkı ödeme tarihinden itibaren 6 ayda zamanaşımına uğrar (TTK m. 749, 778 resmî metin; bonoda düzenleyen, poliçedeki kabul eden gibi sorumludur).
 
 ### D5. Riskler ve tuzaklar
 - **Boş senet imzalatma:** Sonradan doldurma tutar ve vade ihtilafı; ispat yükü tartışması.
@@ -183,4 +184,4 @@ Görüldüğünde ödenir · görüldükten belirli süre sonra · düzenleme ta
 3. **Tefeci boş çek istiyor:** Vermeyin; yasal kredi arayın; baskı varsa savcılık.
 
 ## English summary
-Interest: simple, compound, EAR, real (Fisher) and the rule of 72; 3%/month equals 42.58% a year compounded. Amortization worked examples show most early installments are interest. Usury and illegal lending rely on blank cheques/notes, hidden fees and threats; victims should keep records, report threats and seek legal remedies. Cheques: unconditional order to pay on presentation; presentation periods, endorsement types, bank liability, kiting and forgery. Promissory notes: five essential elements (note designation, unconditional promise to pay a sum, payee, date, signature) with statutory presumptions for missing due date and place; aval (guarantee), summary enforcement procedures, protest and limitation periods. Always verify current statutory numbers.
+Interest: simple, compound, EAR, real (Fisher) and the rule of 72; 3%/month equals 42.58% a year compounded. Amortization worked examples show most early installments are interest. Usury and illegal lending rely on blank cheques/notes, hidden fees and threats; victims should keep records, report threats and seek legal remedies. Cheques: unconditional order to pay on presentation; presentation periods, endorsement types, bank liability, kiting and forgery. Promissory notes: TTK Art. 776 lists seven elements (note designation, unconditional promise to pay, due date, place of payment, payee, date and place of issue, signature) and Art. 777 supplies defaults only for a missing due date (payable on demand), place of payment and place of issue; aval (guarantee), summary enforcement procedures, protest and limitation periods. Always verify current statutory numbers.

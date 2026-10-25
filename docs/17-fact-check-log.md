@@ -2,27 +2,27 @@
 
 > Bu dosya, depodaki kanun maddelerinin, sürelerin, tarihlerin ve rakamların nasıl kontrol edildiğini gösterir. **Hiçbir şey hukuki tavsiye değildir; karar vermeden önce resmî metne bakın.** / This log shows how legal citations, deadlines, dates and figures were checked. Not legal advice; always read the official text.
 
-**Yöntem:** Web aramasıyla kontrol edildi. mevzuat.gov.tr PDF'leri makine tarafından okunamadığı için (sıkıştırılmış PDF) kanun metinleri **doğrudan resmî metinden değil**, SPK duyuruları, akademik makaleler, hukuk bürosu yayınları ve haber kaynaklarından teyit edildi. Bu yüzden "ikincil" işaretli maddeleri resmî metinden ayrıca doğrulayın.
+**Yöntem (güncel):** İlk turda web aramasıyla kontrol edildi. Sonra mevzuat.gov.tr'den 5941 (Çek Kanunu), 6102 (TTK), 6362 (SPKn), 5237 (TCK), 6502, 5549 ve 4054 sayılı kanunların PDF'leri indirilip metne çevrilerek **doğrudan resmî metinden** okundu. "✅ Resmî metin" yazan satırlar bu şekilde doğrulandı. İİK ve Vergi Usul Kanunu PDF'leri indirilemedi; ilgili satırlar ikincil kaynağa dayanır. Metin çıkarımında Türkçe karakterler bozuk geldi, bu yüzden "üç" gibi sözcüklerin rakamsal karşılıkları yapıya göre ayrıca kontrol edildi.
 
 Durum: ✅ doğrulandı · 🛠 düzeltildi · ⚠️ ikincil kaynakla teyit (resmî metne bakın) · ❓ aramada doğrulanamadı (genel bilgiye dayanıyor)
 
 ## Türkiye: kanunlar ve süreler
 | İddia | Durum | Not |
 |---|---|---|
-| SPKn md. 106 içeriden öğrenenlerin ticareti | ✅ | Akademik kaynak; ceza hapis veya adli para cezası (seçenekli) |
-| SPKn md. 107 piyasa dolandırıcılığı: 2–5 yıl hapis, 5.000 güne kadar adli para cezası | ✅ | SPK basın açıklaması (2020) |
-| SPKn md. 109 izinsiz faaliyet: 2–5 yıl hapis, 5.000–10.000 gün adli para cezası | ✅ | SPK duyuruları |
-| TCK md. 241 tefecilik: 2–6 yıl hapis, 500–5.000 gün; örgütte bir kat artış | ✅ | Hukuk kaynakları |
+| SPKn md. 106 içeriden öğrenenlerin ticareti: 3–5 yıl hapis veya adli para cezası (para cezası menfaatin 2 katından az olamaz) | ✅ | **Resmî metin** (mevzuat.gov.tr PDF) |
+| SPKn md. 107 piyasa dolandırıcılığı: işlem bazlı 3–5 yıl hapis ve 5.000–10.000 gün; bilgi bazlı 3–5 yıl ve 5.000 güne kadar | 🛠✅ | **Resmî metin.** Önceki "2–5 yıl" ifadesi (arama özetinden alınmıştı) yanlıştı |
+| SPKn md. 109: izinsiz faaliyet / izinsiz halka arz 2–5 yıl hapis ve 5.000–10.000 gün; md. 109/A izinsiz kripto hizmeti 3–5 yıl ve 5.000–10.000 gün | ✅ | **Resmî metin** |
+| TCK md. 241 tefecilik: kazanç amacıyla ödünç para verme, 2–6 yıl hapis ve 500–5.000 gün; örgütte bir kat artış | ✅ | **Resmî metin** |
 | Tefecilik için "yasal faiz sınırını aşmak" şartı | 🛠 | **Yanlıştı.** Unsur kazanç amacıdır, faiz eşiği değil |
-| Çek ibraz süresi: aynı yer 10 gün, farklı yer 1 ay, yurt dışı aynı kıta 1 ay / farklı kıta 3 ay (TTK 796) | ✅⚠️ | Birden çok hukuk kaynağı tutarlı |
-| Çek zamanaşımı "altı ay mertebesinde" | 🛠 | **Yanlıştı.** TTK 814: ibraz süresinin bitiminden 3 yıl (⚠️ ikincil) |
-| Karşılıksız çek: 2012'de hapis kalktı, adli para cezası (en çok 1.500 gün), şikâyet 3 ay / 1 yıl, yasak kaydı 10 yıl sonra silinir | ⚠️ | Hukuk büroları ve mevzuat özetleri. Cezanın alt/üst sınırı kaynaklarda farklı ifade edilmiş; metne bakın |
-| Bono zorunlu unsurları (TTK 776) | 🛠 | Önceki listede vade ve ödeme yeri de zorunlu gösterilmişti; bunlar eksikse kanuni karine vardır |
-| Bono zamanaşımı (TTK 749): düzenleyene 3 yıl, müracaat borçlularına 1 yıl, ödeyen borçluya 6 ay | ⚠️ | Hukuk makalesi |
+| Çek ibraz süresi: aynı yer 10 gün, farklı yer 1 ay, yurt dışı aynı kıta 1 ay / farklı kıta 3 ay; süre düzenleme tarihinin ertesi gününden başlar (TTK 796) | ✅ | **Resmî metin** |
+| Çek zamanaşımı: ibraz süresinin bitiminden 3 yıl (TTK 814; 2012'de "altı ay"dan değişti) | 🛠✅ | **Resmî metin.** "Altı ay" eski metindi |
+| Karşılıksız çek: her çek için 1.500 güne kadar adli para cezası, karşılıksız miktardan az olamaz; çek yasağı; ödenmezse doğrudan hapse çevrilir; etkin pişmanlık (md. 6) | 🛠✅ | **Resmî metin.** Önceki "2012'de hapis kalktı", "yasağı savcı kaldırır" ve "şikâyet 3 ay/1 yıl" ifadeleri çıkarıldı/düzeltildi |
+| Bono unsurları: TTK 776 yedi unsur sayar; 777: vade (görüldüğünde), ödeme yeri ve düzenleme yeri için istisna, diğerleri eksikse bono sayılmaz | 🛠✅ | **Resmî metin.** İlk sürüm doğruydu, ikinci "düzeltme" (5 unsur) eksikti; şimdi 776 ve 777 birlikte yazıldı |
+| Bono zamanaşımı (TTK 749, 778): düzenleyene vadeden 3 yıl; hamilin cirantalara 1 yıl (protesto tarihinden); ödeyen ciranta 6 ay | ✅ | **Resmî metin** |
 | İİK 168: ödeme emrine 5 gün içinde şikâyet/itiraz | ⚠️ | Hukuk makalesi; metin 6352 sayılı Kanunla değişmiş |
-| Çek Kanunu md. 3 banka ödeme sorumluluğu tutarları | ❓ | Tutarlar güncellenir; rakam verilmedi |
+| Çek Kanunu md. 3 banka ödeme sorumluluğu: baz tutar 1.000 TL, TCMB her Ocak günceller; gecikmede binde üç/gün; basımdan 5 yıl | ✅ | **Resmî metin.** Güncel yıllık tutar TCMB duyurusundadır, yazılmadı |
 | 7518 sayılı Kanun, RG 2 Temmuz 2024 (kripto varlık hizmet sağlayıcıları) | ✅ | SPK duyurusu |
-| Mesafeli sözleşmede 14 gün cayma hakkı (6502) | ❓ | Genel bilgi |
+| Mesafeli sözleşmede 14 gün cayma hakkı (6502 md. 48/4) | ✅ | **Resmî metin** |
 | 677 sayılı Tekke ve Zaviyeler Kanunu, 30 Kasım 1925 | ❓ | Genel bilgi |
 
 ## Türkiye: olaylar ve tarihler

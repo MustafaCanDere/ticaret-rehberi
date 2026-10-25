@@ -40,6 +40,7 @@ Yukarıdaki dosyalar genel çerçevedir; ayrıntı için (sayısal örnekler, ad
 | [D3 Faiz, kredi, çek, senet](docs/deep/D3-interest-credit-cheque-note.md) | Faiz formülleri, amortisman tabloları, tefecilik, çek/senet unsurları ve takip yolları |
 | [D4 Krizler, siyaset, jeopolitik](docs/deep/D4-crises-politics-geopolitics.md) | 1929'dan 2023'e ayrıntılı kriz vakaları, hiperenflasyon, rezerv para, tarifeler, IMF |
 | [D5 Gizli yapılar, şirketler, gölge ekonomi](docs/deep/D5-hidden-power-corporations-shadow-economy.md) | İddia değerlendirme çerçevesi, mason/cemaat yapıları, fon sahipliği, FATF, kara para savunması |
+| [D6 Yasa dışı uygulamalar vaka kitabı](docs/deep/D6-illegal-practices-casebook.md) | Ponzi anatomisi, manipülasyon, banka dolandırıcılıkları, aklama tipolojileri, muhasebe hileleri ve Benford, rüşvet-kartel, gümrük, resmî metinden ceza tablosu, soruşturma akışı, mağdur ve ihbarcı rehberi |
 
 ## Katkı / Contributing
 

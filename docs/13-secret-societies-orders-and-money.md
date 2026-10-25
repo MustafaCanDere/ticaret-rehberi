@@ -16,7 +16,7 @@
 - **Tarikat:** Tasavvufi eğitim çizgisi. Türkiye'de 1925'te tekke ve zaviyeler kapatıldı. **Cemaat:** Dini/sosyal topluluk. Bunlar kendi başına suç değildir; inanç özgürlüğü kapsamındadır.
 - **Ekonomik faaliyetler (genel):** Vakıf ve dernekler, bağışlar, eğitim kurumları, işletme ve holdingler. Meşru kuruluşlar vergi ve denetim kurallarına tabidir.
 - **Risk alanları (belgelenmiş türde):**
-  - **Güven temelli dolandırıcılık (affinity fraud):** Dolandırıcının aynı din/cemaat/kökenden olma güvenini kullanması. Dünyada birçok Ponzi vakası bu yolla yayıldı.
+  - **Güven temelli dolandırıcılık (affinity fraud):** Dolandırıcının aynı din/cemaat/kökenden olma güvenini kullanması. Dünyada birçok Ponzi vakası bu yolla yayıldı. Türk Ceza Kanunu md. 158/1-a, dinî inanç ve duyguların istismarıyla işlenen dolandırıcılığı **nitelikli hâl** sayar (3–10 yıl hapis ve 5.000 güne kadar adli para cezası); (d) bendi vakıf, dernek, siyasi parti gibi tüzel kişiliklerin araç olarak kullanılmasını da kapsar.
   - **Zorla bağış, emeğin karşılıksız kullanımı, mal varlığının devri baskısı:** Baskıcı gruplarda (cult) görülen istismar biçimleri; suç olabilir.
   - **Vergisiz/denetimsiz para akışı, kara para aklama için hayır kurumlarının kullanımı:** Denetim ve şeffaflık gerekir.
   - **Siyasetle iç içe geçme:** Kamu kaynağı, ihale ve atamalarda kayırmacılık.

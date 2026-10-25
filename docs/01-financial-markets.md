@@ -10,7 +10,7 @@
 - **Hisse senedi (Borsa İstanbul):** Aracı kurum hesabı, MKK/Takasbank altyapısı. Emir türleri: piyasa, limit, stop, gün sonu/iptale kadar geçerli.
 - **Tahvil/bono, fon (TEFAS), VİOP (vadeli işlem), varant.**
 - **Forex:** Türkiye'de yurt içi yetkili aracı kurumlar üzerinden yapılmalıdır. SPK lisansı olmayan yurt dışı siteler izinsiz faaliyet sayılabilir.
-- **Kripto varlıklar:** Kripto varlık hizmet sağlayıcıları, 2 Temmuz 2024 tarihli Resmî Gazete'de yayımlanan 7518 sayılı Kanun'la SPK yetkilendirmesi ve denetimine alındı (sonraki yıllarda ikincil düzenlemeler çıktı). Platformun SPK izni olup olmadığını kontrol edin.
+- **Kripto varlıklar:** Kripto varlık hizmet sağlayıcıları, 2 Temmuz 2024 tarihli Resmî Gazete'de yayımlanan 7518 sayılı Kanun'la SPK yetkilendirmesi ve denetimine alındı (izinsiz kripto varlık hizmet sağlayıcılığı SPKn md. 109/A uyarınca 3–5 yıl hapis ve 5.000–10.000 gün adli para cezası gerektirir; sonraki yıllarda ikincil düzenlemeler çıktı). Platformun SPK izni olup olmadığını kontrol edin.
 
 **Yasal çerçeve (özet)**
 - 6362 sayılı Sermaye Piyasası Kanunu (SPK denetimi)
@@ -28,8 +28,8 @@
 
 | Uygulama | Ne demek | Neden suç | İşaretler |
 |---|---|---|---|
-| **İçeriden öğrenenlerin ticareti (insider trading)** | Kamuya açıklanmamış fiyatı etkileyecek bilgiyle alım-satım veya bu bilgiyi başkasına verme | SPKn md. 106 (hapis veya adli para cezası) | Haber öncesi olağandışı hacim |
-| **Piyasa dolandırıcılığı / manipülasyon** | Yapay fiyat/hacim oluşturma: gerçek dışı bilgi yayma, danışıklı işlemler | SPKn md. 107 (2–5 yıl hapis ve 5.000 güne kadar adli para cezası) | Ani fiyat sıçrayıp çöken küçük hisseler |
+| **İçeriden öğrenenlerin ticareti (insider trading)** | Kamuya açıklanmamış fiyatı etkileyecek bilgiyle alım-satım veya bu bilgiyi başkasına verme | SPKn md. 106 (3–5 yıl hapis veya adli para cezası; para cezası seçilirse menfaatin iki katından az olamaz) | Haber öncesi olağandışı hacim |
+| **Piyasa dolandırıcılığı / manipülasyon** | Yapay fiyat/hacim oluşturma: gerçek dışı bilgi yayma, danışıklı işlemler | SPKn md. 107 (3–5 yıl hapis ve 5.000–10.000 gün adli para cezası; yanlış bilgi/söylenti fıkrasında 5.000 güne kadar) | Ani fiyat sıçrayıp çöken küçük hisseler |
 | **Pump & dump** | Düşük likit varlığı alıp sosyal medyada şişirerek yüksek fiyattan satma | Manipülasyon (md. 107) | Telegram/X "bu coin 100x" grupları |
 | **Wash trading / danışıklı işlem** | Aynı kişinin kendi kendine alıp satması, sahte hacim | Manipülasyon | Hacim yüksek, derinlik yok |
 | **Spoofing / layering** | Gerçekleştirmeyi planlamadan emir yazıp iptal ederek fiyatı yönlendirme | Manipülasyon | Emir defterinde hızlı kaybolan büyük emirler |

@@ -68,7 +68,15 @@ Yukarıdaki grafik: %50 kayıp, başa dönmek için **%100** kazanç gerektirir.
 4. Bu bilgiyle işlem yapma veya başkasına verme ("ipucu", tipping).
 - **ABD:** Rule 10b-5 ve ihlal doktrinleri (klasik teori: şirket içi; zimmete geçirme teorisi: bilgiyi güven ilişkisini ihlal ederek kullanma).
 - **AB:** Piyasa Suistimali Tüzüğü (MAR) madde 7-14, dolaylı ihlalciler de dahil.
-- **Türkiye:** 6362 sayılı SPKn md. 106 (içeriden öğrenenlerin ticareti; hapis veya adli para cezası). Piyasa dolandırıcılığı md. 107: 2–5 yıl hapis ve 5.000 güne kadar adli para cezası (işlem bazlı ve bilgi bazlı iki ayrı fıkra). İzinsiz sermaye piyasası faaliyeti md. 109: 2–5 yıl hapis ve 5.000–10.000 gün adli para cezası. SPK, soruşturma sürerken geçici işlem yasağı gibi idari tedbirler de uygulayabilir.
+- **Türkiye (6362 sayılı SPKn, resmî metinden):**
+  - **md. 106 (içeriden öğrenenlerin ticareti):** Henüz kamuya duyurulmamış, fiyatı/değeri/yatırımcı kararlarını etkileyebilecek bilgiye dayanarak emir veren, değiştiren veya iptal eden ve kendisine ya da başkasına menfaat sağlayan; yönetici, pay sahibi, görevi nedeniyle bilgiye sahip olan, bilgiyi suç işleyerek elde eden veya bilginin bu nitelikte olduğunu bilen/bilmesi gereken kişiler. Ceza: **3–5 yıl hapis veya adli para cezası**; para cezası seçilirse menfaatin iki katından az olamaz.
+  - **md. 107/1 (işlem bazlı piyasa dolandırıcılığı):** Fiyat, fiyat değişimi, arz-talep konusunda yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım-satım yapmak, emir vermek/iptal etmek/değiştirmek veya hesap hareketi gerçekleştirmek. Ceza: **3–5 yıl hapis ve 5.000–10.000 gün adli para cezası**; para cezası elde edilen menfaatten az olamaz.
+  - **md. 107/2 (bilgi bazlı):** Yalan, yanlış veya yanıltıcı bilgi vermek, söylenti çıkarmak, haber/yorum/rapor yayımlamak ve bu yolla menfaat sağlamak. Ceza: **3–5 yıl hapis ve 5.000 güne kadar adli para cezası**.
+  - **md. 107/3 (pişmanlık):** 500.000 TL'den az olmamak üzere menfaatin iki katını Hazine'ye ödeyen: soruşturma başlamadan önce ise ceza verilmez; soruşturmada yarı, kovuşturmada üçte bir indirim.
+  - **md. 109/1–2:** İzahname/ihraç belgesi olmadan halka arz veya satış ile izinsiz sermaye piyasası faaliyeti: **2–5 yıl hapis ve 5.000–10.000 gün adli para cezası**.
+  - **md. 109/A (7518 sayılı Kanunla, 2024):** İzinsiz kripto varlık hizmet sağlayıcılığı: 3–5 yıl hapis ve 5.000–10.000 gün adli para cezası.
+  - **md. 110:** Yatırım kuruluşu çalışanlarının emanet varlığı kullanması gibi hâller, TCK 155'in nitelikli hâlidir; ceza üç yıldan az olamaz.
+  - SPK ayrıca soruşturma sürerken geçici işlem yasağı gibi idari tedbirler uygulayabilir.
 - **Tespit:** Haber öncesi olağandışı alım/satım, ilişkili hesaplar, telefon-mesaj kayıtları, ödeme izleri.
 **Belgelenmiş örnekler:** Ivan Boesky (1980'ler, ABD), Raj Rajaratnam/Galleon Group (2011 mahkûmiyet), SAC Capital (2013'te şirket olarak suçunu kabul etti; haberlerde toplam ödeme yaklaşık 1,8 milyar dolar olarak geçer, bazı haberlerde yalnızca 1,2 milyar dolarlık kısım anılır; Steven Cohen hakkında cezai dava açılmadı). Martha Stewart davası içeriden öğrenenlerin ticaretinden değil, soruşturmada yalan beyan/engelleme suçlarından mahkûm oldu.
 **Meşru olanlar:** Önceden planlanmış işlem planları (ör. ABD'de Rule 10b5-1), kamuya açık analiz ve "mozaik" araştırma (kamuya açık parçalardan sonuç çıkarma).
